@@ -1,0 +1,38 @@
+
+\documentclass[11pt,a4paper,openright,twoside,twocolumn]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{url}
+\usepackage{setspace}
+\usepackage[left=2cm,top=2cm,right=2cm,bottom=2cm]{geometry}
+\usepackage{graphicx}
+\usepackage{changepage}
+
+%\usepackage{helvet}
+%\renewcommand{\rmdefault}{phv} % Arial
+%\renewcommand{\sfdefault}{phv} % Arial
+
+%\renewcommand{\familydefault}{\sfdefault}
+
+%\doublespacing
+
+%\setlength{\parskip}{1\baselineskip}
+
+\renewcommand{\thechapter}{}
+\renewcommand{\thesection}{}
+
+\newcommand{\CcImageBy}[1]{%
+	\includegraphics[#1]{creative_commons/cc_by_30.pdf}%
+}
+\newcommand{\CcImageCc}[1]{%
+	\includegraphics[#1]{creative_commons/cc_cc_30.pdf}%
+}
+\newcommand{\CcImageSa}[1]{%
+	\includegraphics[#1]{creative_commons/cc_sa_30.pdf}%
+}
+
+%% Groups
+\newcommand{\CcGroupBySa}[2]{% zoom, gap
+	\CcImageBy{#1}\hspace*{#2}\CcImageSa{#1}%
+}
+

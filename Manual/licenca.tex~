@@ -1,0 +1,82 @@
+% Este arquivo .tex será incluído no arquivo .tex principal. Não é preciso
+% declarar nenhum cabeçalho
+
+\clearpage
+
+\changepage{-2cm}{-2cm}{+2cm}{+2cm}{}{+2cm}{}{}{}
+
+\thispagestyle{empty}
+
+\mbox{}
+
+\clearpage
+
+\thispagestyle{empty}
+
+\onecolumn
+
+Este trabalho está licenciado segundo os termos da licença \emph{Creative Commons Attribution-ShareAlike 2.5 Brasil}. A licença completa está disponível em \url{http://creativecommons.org/licenses/by-sa/2.5/br/legalcode}.
+
+\begin{center}
+  \CcGroupBySa{scale=1.0}{1cm}
+
+  \large{\textbf{Atribuição -- Compartilhamento pela mesma licença 2.5 Brasil}}
+\end{center}
+
+\subsection*{Você pode:}
+
+\noindent
+\begin{itemize}
+\item \textbf{Compartilhar} -- copiar, distribuir e transmitir a obra.
+\item \textbf{Remixar} -- criar obras derivadas.
+\end{itemize}
+
+\subsection*{Sob as seguintes condições:}
+
+\vspace{1em}
+\noindent
+\parbox{1.5cm}{\CcImageBy{width=1cm}}
+\parbox{\textbf{Atribuição} -- Você deve creditar a obra da forma especificada pelo autor ou licenciante (mas não de maneira que sugira que estes concedem qualquer aval a você ou ao seu uso da obra).}
+      
+\vspace{1em}
+\noindent
+\parbox{1.5cm}{\CcImageSa{width=1cm}}
+\parbox{15.5cm}{\textbf{Compartilhamento pela mesma licença} -- Se você alterar, transformar ou criar em cima desta obra, você poderá distribuir a obra resultante apenas sob a mesma licença, ou sob uma licença similar à presente.}
+
+\subsection*{Ficando claro que:}
+
+\noindent
+\textbf{Renúncia} -- Qualquer das condições acima pode ser renunciada se você obtiver permissão do titular dos direitos autorais.
+
+\vspace{1em}
+\noindent
+\textbf{Domínio público} -- Onde a obra ou qualquer de seus elementos estiver em domínio público sob o direito aplicável, esta condição não é, de maneira alguma, afetada pela licença.
+
+\vspace{1em}
+\noindent
+\textbf{Outros direitos} -- Os seguintes direitos não são, de maneira alguma, afetados pela licença: 
+affected by the license:
+
+\begin{itemize}
+\item Limitações e exceções aos direitos autorais ou quaisquer usos livres aplicáveis;
+\item Os direitos morais do autor;
+\item Direitos que outras pessoas podem ter sobre a obra ou sobre a utilização da obra, tais como direitos de imagem ou privacidade.
+\end{itemize}
+
+\vspace{1em}
+\noindent
+\textbf{Aviso} -- Para qualquer reutilização ou distribuição, você deve deixar claro a terceiros os termos da licença a que se encontra submetida esta obra. A melhor maneira de fazer isso é com um link para a página \url{http://creativecommons.org/licenses/by-sa/2.5/br/}.
+
+\begin{center}
+  \large{Copyright \copyright 2005-2012 Centro Acadêmico da Computação
+
+  Alguns direitos reservados}
+
+\vspace{1em}
+\rule{\linewidth}{0.5mm}
+\vspace{1em}
+
+\emph{Esse manual foi escrito por diversos colaboradores, sem vínculo necessário com a coordenação ou diretoria das entidades organizadoras. \\
+Agradecemos toda essa colaboração voluntária.}
+\end{center}
+

@@ -1,0 +1,62 @@
+\contentsline {chapter}{Sum\IeC {\'a}rio}{i}
+\contentsline {chapter}{Boas vindas}{1}
+\contentsline {section}{Mensagem do diretor da FEEC}{1}
+\contentsline {section}{Mensagem do coordenador de p\IeC {\'o}s-gradua\IeC {\c c}\IeC {\~a}o}{2}
+\contentsline {chapter}{A APOGEEU}{5}
+\contentsline {chapter}{Lugares para morar}{7}
+\contentsline {section}{Rep\IeC {\'u}blicas}{7}
+\contentsline {section}{Quitinetes}{8}
+\contentsline {section}{Pens\IeC {\~o}es}{8}
+\contentsline {section}{Dicas de seguran\IeC {\c c}a}{8}
+\contentsline {section}{Imobili\IeC {\'a}rias}{8}
+\contentsline {chapter}{Comida}{13}
+\contentsline {section}{Dia-a-dia}{13}
+\contentsline {subsection}{Bandej\IeC {\~a}o}{13}
+\contentsline {subsection}{Outros lugares para as refei\IeC {\c c}\IeC {\~o}es}{14}
+\contentsline {subsection}{Lanches e sucos}{14}
+\contentsline {subsection}{Padarias e caf\IeC {\'e} da manh\IeC {\~a}}{15}
+\contentsline {section}{E no fim de semana?}{15}
+\contentsline {subsection}{Entrega em domic\IeC {\'\i }lio e comida para madrugadas}{16}
+\contentsline {section}{Gastronomia}{19}
+\contentsline {subsection}{Restaurantes}{19}
+\contentsline {subsection}{Lanches}{20}
+\contentsline {subsection}{Bares}{22}
+\contentsline {chapter}{Divers\IeC {\~a}o}{25}
+\contentsline {section}{Espa\IeC {\c c}os culturais}{25}
+\contentsline {section}{Teatros}{25}
+\contentsline {section}{Boates e baladas}{26}
+\contentsline {section}{Shopping Centers}{27}
+\contentsline {section}{Cinemas}{28}
+\contentsline {chapter}{Transporte}{31}
+\contentsline {section}{\IeC {\^O}nibus}{31}
+\contentsline {section}{Voltar para casa}{33}
+\contentsline {section}{Carro}{33}
+\contentsline {chapter}{Outras necessidades}{35}
+\contentsline {section}{Supermercados}{35}
+\contentsline {section}{Bancos}{35}
+\contentsline {section}{Sebos e livrarias}{36}
+\contentsline {section}{Igrejas}{37}
+\contentsline {section}{Farm\IeC {\'a}cias}{38}
+\contentsline {section}{Utilidades em geral}{39}
+\contentsline {chapter}{Conhecendo melhor a Unicamp}{41}
+\contentsline {section}{Servi\IeC {\c c}os que a Unicamp oferece}{41}
+\contentsline {subsection}{Redes sem fio na FEEC}{41}
+\contentsline {subsection}{Licen\IeC {\c c}as de software gratuitas}{41}
+\contentsline {subsection}{Acesso a artigos e revistas cient\IeC {\'\i }ficas}{42}
+\contentsline {subsection}{Bibliotecas da Unicamp}{43}
+\contentsline {subsection}{Cursos de l\IeC {\'\i }nguas}{43}
+\contentsline {subsection}{Atendimento m\IeC {\'e}dico e odontol\IeC {\'o}gico - CECOM}{44}
+\contentsline {subsection}{Hemocentro}{45}
+\contentsline {subsection}{Circular Interno/Moradia}{45}
+\contentsline {subsection}{SAE - Servi\IeC {\c c}o de Apoio ao Estudante}{46}
+\contentsline {section}{Lugares para estudar}{48}
+\contentsline {section}{Siglas e \IeC {\'o}rg\IeC {\~a}os importantes e seus significados}{49}
+\contentsline {chapter}{Grupos e comunidades}{51}
+\contentsline {section}{Pr\IeC {\'o}-P\IeC {\'o}s -- Movimento de P\IeC {\'o}s-Graduandos da Unicamp}{51}
+\contentsline {section}{R\IeC {\'a}dio Muda}{51}
+\contentsline {section}{Curso Exato}{52}
+\contentsline {section}{Cursinho da Moradia}{52}
+\contentsline {section}{Projeto Educacional Machado de Assis}{52}
+\contentsline {section}{Sonha Bar\IeC {\~a}o}{52}
+\contentsline {section}{Pastoral Universit\IeC {\'a}ria}{52}
+\contentsline {section}{ABU - Alian\IeC {\c c}a B\IeC {\'\i }blica Universit\IeC {\'a}ria}{53}

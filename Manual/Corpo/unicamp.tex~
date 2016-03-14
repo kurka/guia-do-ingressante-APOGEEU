@@ -1,0 +1,330 @@
+% Este arquivo .tex será incluído no arquivo .tex principal. Não é preciso
+% declarar nenhum cabeçalho
+
+\begin{story}{Conhecendo melhor a Unicamp}
+
+\section*{Serviços que a Unicamp oferece}
+\addcontentsline{toc}{section}{Serviços que a Unicamp oferece}
+
+\subsection*{Redes sem fio na FEEC}
+\addcontentsline{toc}{subsection}{Redes sem fio na FEEC}
+
+A FEEC conta com as seguintes redes sem-fio:
+
+\begin{itemize}
+\item \textbf{WLAN-FEEC-A:} Acesso com base em login e senha, liberada para todos usuários com vinculo com a FEEC (Professores, Alunos e Funcionários).
+\item \textbf{WLAN-FEEC-B:} Acesso com base em login e senha, mas com controle adicional por endereço MAC do cliente. Recomendada para usuários (tais como Professores e Funcionários) que necessitem utilizar serviços de rede na FEEC cujo acesso é controlado pela rede de origem, como o sistema de impressoras Lexmark e outros.
+\item \textbf{WLAN-FEEC-C:} Acesso controlado por MAC address e chave da acesso. Rede reservada para dispositivos (principalmente celulares e PDAs) que não suportem EAP-TTLS.
+\item \textbf{WLAN-FEEC-EVENTOS:} Acesso por chave compartilhada. Rede dedicada à utilização temporária por visitantes (usuários sem vinculo com a FEEC).
+\end{itemize}
+
+\subsubsection*{Área de cobertura}
+
+Todas as redes acima estão acessíveis nas áreas da FEEC onde há cobertura pelos rádios WiFi. Até março deste ano a cobertura compreendia o prédio principal da FEEC (blocos A, B e C), as salas de aula da graduação (bloco F), os laboratórios de pesquisa (bloco G1), as salas de aula da pós-graduação (bloco H) e os laboratórios didáticos (bloco E).
+
+Lembrando que para a utilização de notebook pessoal é necessário preencher um formulário que pode ser obtido pelo site do GRSD.
+
+Mais informações acesse:
+
+\begin{itemize}
+\item \url{www.grsd.fee.unicamp.br}
+\end{itemize}
+
+\subsection*{Licenças de software gratuitas}
+\addcontentsline{toc}{subsection}{Licenças de software gratuitas}
+
+Por estar na Unicamp, você agora tem acesso a várias licenças gratuitas de software especiais para estudantes. O LMS (Laboratório Microsoft) oferece download gratuito de uma grande variedade de software da Microsoft, como o Windows e o ambiente de desenvolvimento integrado (leia-se: serve para programar) Visual Studio. O Office não está disponível. Para mais informações sobre como se cadastrar e baixar, acesse:
+
+\begin{itemize}
+\item \url{www.lms.ic.unicamp.br}
+\end{itemize}
+
+A CTIC (Coordenadoria de Tecnologia da Informação e Comunicação) da Unicamp obtém licenças de muitos pacotes de software e disponibiliza para a comunidade acadêmica, inclusive alunos. As aplicações de computação científica Wolfram Mathematica e MATLAB, por exemplo, estão disponíveis gratuitamente. Para mais informações, acesse:
+
+\begin{itemize}
+\item \url{www.ctic.unicamp.br/softwares}
+\end{itemize}
+
+A multinacional Autodesk oferece licenças de estudante gratuitas para muitos de seus programas, incluindo o AutoCAD e a aplicação de modelagem 3D Maya. Para baixar, cadastre-se usando seu e-mail da DAC, do IC ou da FEEC em students.
+
+\begin{itemize}
+\item \url{autodesk.com}
+\end{itemize}
+
+\subsection*{Acesso a artigos e revistas científicas}
+\addcontentsline{toc}{subsection}{Acesso a artigos e revistas científicas}
+
+Os resultados de pesquisas científicas, no Brasil e no mundo todo, costumam ser divulgados em artigos científicos publicados através de periódicos e conferências, cujos conteúdos normalmente são disponíveis pela internet.
+
+No Brasil, quase todas as instituições públicas de ensino superior, como a Unicamp, participam de um sistema conhecido como Portal de Periódicos da CAPES (\url{periodicos.capes.gov.br}), que garante acesso a grande parte das publicações científicas das principais editoras do mundo sem necessidade de pagar nada a mais por isso.
+
+Nas áreas de engenharia e de computação, quase todas as publicações relevantes são acessíveis através desse sistema. Mas é importante você saber que esse tipo de acesso só é possível a partir de
+endereços IP da Universidade, então se você quiser acessar algum artigo quando estiver em casa, o ideal é usar o sistema de acesso VPN (Virtual Private Network) disponibilizado pela Unicamp, como pode ser visto no site:
+
+\begin{itemize}
+\item \url{www.ccuec.unicamp.br/ccuec/acesso_remoto_vpn}
+\end{itemize}
+
+Na Unicamp, você ainda tem acesso a diversas outras publicações e e-books que não são cobertos pelo sistema da Capes, além de alguns periódicos impressos, que podem ser encontrados nas bibliotecas. Caso você queira buscar algo no material que há disponível física ou virtualmente na Universidade, acesse o site do Sistema de Bibliotecas da Unicamp:
+
+\begin{itemize}
+\item \url{www.sbu.unicamp.br}
+\end{itemize}
+
+Para uma busca mais abrangente de artigos científicos na internet, você pode usar o Google Acadêmico (\url{scholar.google.com}). Mas atenção! Você pode encontrar artigos que não são cobertos pelo Portal da CAPES nem pela Unicamp e exigem pagamento.
+
+Além do Portal de Periódicos, existe também um novo modelo de publicações científicas de acesso gratuito, chamado \emph{open access}. Publicações feitas nesse sistema são acessíveis a qualquer momento, de qualquer IP e sem qualquer custo. Alguns exemplos de grandes repositórios e editoras \emph{open access} são:
+
+\begin{itemize}
+\item SciELO: \url{www.scielo.br}
+\item PLOS: \url{plos.org}
+\item arXiv: \url{arxiv.org}
+\item PMC: \url{ncbi.nlm.nih.gov/pmc}
+\end{itemize}
+
+A rede SciELO é onde a maior parte dos artigos em português é publicada. O acervo PMC é de publicações da área biomédica.
+
+\subsection*{Bibliotecas da Unicamp}
+\addcontentsline{toc}{subsection}{Bibliotecas da Unicamp}
+
+O Sistema de Bibliotecas na Unicamp é imenso, precisaríamos de um manual somente para falar sobre ele, então especificaremos as três mais usadas pelos alunos da pós-graduação de Engenharia Elétrica.
+
+\begin{itemize}
+
+\item BAE - Biblioteca da Área de Engenharia e Arquitetura
+\begin{itemize}
+\item Endereço: Rua Sérgio Buarque de Holanda, 421
+\item Atendimento ao público em período letivo, de segunda a sexta-feira, das 9h às 23h, e aos sábados, das 9h às 13h.
+\item E-mail: \url{bibaesp@unicamp.br}
+\end{itemize}
+
+\item IFGW - Biblioteca do Instituto de Física Gleb Wataghin
+\begin{itemize}
+\item Endereço: Rua Sérgio Buarque de Holanda, 777
+\item Atendimento ao público em período letivo, de segunda a sexta-feira, das 8h às 22h45.
+\end{itemize}
+
+\item IMECC - Biblioteca do Instituto de Matemática, Estatística e Computação Científica
+\begin{itemize}
+\item Endereço: Rua Sérgio Buarque de Holanda, 651
+\item Atendimento ao público em período letivo, de segunda a sexta-feira, das 8h30 às 22h45.
+\item E-mail: \url{bimecc@ime.unicamp.br}
+\end{itemize}
+
+\end{itemize}
+
+\subsection*{Cursos de línguas na Unicamp}
+\addcontentsline{toc}{subsection}{Cursos de línguas}
+
+Além de existir uma escola de idioma a cada esquina em Barão, temos também algumas opções na Unicamp que saem de graça ou bem mais em conta.
+
+\subsubsection*{CEL -- Centro de Ensino de Línguas}
+
+A Unicamp possui um centro para o ensino de línguas gratuito aos alunos de graduação. Alunos regulares de pós-graduação da Unicamp (mestrado e/ou doutorado), porém, podem cursar disciplinas isoladas de línguas estrangeiras como alunos especiais. As disciplinas oferecidas são alemão, espanhol, francês, hebraico, inglês instrumental, italiano e russo.
+
+As prioridades para obtenção de vagas são: 1. mestrando do primeiro ano, 2. doutorando do primeiro ano ou 3. doutorando do segundo ano 4. mestrando/doutorando dos demais anos.
+
+Mais informações acesse:
+
+\begin{itemize}
+\item \url{www.cel.unicamp.br}
+\end{itemize}
+
+\subsubsection*{Curso de Línguas do CABS (Centro Acadêmico Bernardo Sayão -- Engenharia Elétrica)}
+
+O curso do CABS é oferecido já há quase dez anos na FEEC. Geralmente oferece, em diversos níveis, cursos de alemão, espanhol, francês e italiano, por preços bem baixo, ministrados na FEEC nos horários de almoço e janta e nas tardes de sexta.
+
+Mais informações acesse:
+
+\begin{itemize}
+\item \url{www.cabs.fee.unicamp.br}
+\end{itemize}
+
+\subsubsection*{Escola de Idiomas da A.A.A. XV de Julho (Economia)}
+
+A Escola de Idiomas da XV de Julho promove cursos das línguas de alemão, espanhol, francês e inglês em diversos níveis (do básico ao avançado). As aulas são ministradas nas salas do Instituto de Economia da Unicamp em horários de intervalo de aulas (início às 12:00 ou às 17:30).
+
+Mais informações acesse:
+
+\begin{itemize}
+\item \url{www.aaaxvdejulho.com.br/escola}
+\end{itemize}
+
+\subsubsection*{Projeto CPL -- Cursos Populares de Línguas}
+
+Organizado pelo CAFIL (Centro Acadêmico de Filosofia) e oferece cursos de francês, inglês, italiano, alemão e espanhol. Todos os cursos possuem carga horária de 3 horas semanais e são divididos em módulos básicos I, II, III e IV. Cada módulo tem duração de 3 meses. As aulas normalmente são oferecidas no horário do almoço e jantar.
+
+Mais informações acesse:
+
+\begin{itemize}
+\item \url{www.projetocpl.org}
+\end{itemize}
+
+\subsection*{Atendimento médico e odontológico - CECOM}
+\addcontentsline{toc}{subsection}{Atendimento médico e odontológico - CECOM}
+
+A CSS é responsável pelo planejamento e execução de programas de saúde voltados à comunidade universitária da Unicamp - alunos, funcionários e docentes. É responsável também pelo atendimento à saúde oral desta comunidade, incluindo também os filhos menores de servidores que estejam devidamente matriculados nas creches e escolas dos campi. Em português, isso quer dizer que é um ``plano de saúde'' da Unicamp. Demora um pouco (embora o pronto-socorro do CECOM seja bem mais rápido que o do HC), tem burocracia, mas funciona. Você pode marcar consultas médicas e fazer exames. O CECOM é localizado próximo ao HC. Para ir, é melhor pegar o Circular Interno pois é beeeeeem longe. De circular interno, peça para descer no CECOM. É o ponto final ou o penúltimo dos circulares.
+
+Caso você tenha Unimed, o Centro Médico, que fica perto da Unicamp, atende pela Unimed. É mais rápido que o atendimento da Unicamp (CECOM ou SUS).
+
+Para marcar consultas com dentista, vá ao CECOM e pergunte onde que fica o setor de odontologia. Isso é mais fácil que você tentar entender lendo aqui. Basicamente é embaixo do CECOM, muito fácil de chegar se alguém apontar com e dedo e dizer ``ali''. Funciona muito bem, o atendimento é ótimo. A única burocracia é assistir uma palestra sobre doenças da boca e escovação antes de poder marcar atendimento. Mas se você estiver com dores eles te atendem na hora sem marcar consulta nem assistir palestra.
+
+Para saber mais sobre o CECOM, vá ao site deles:
+
+\begin{itemize}
+\item \url{www.cecom.unicamp.br}
+\end{itemize}
+
+\subsection*{Hemocentro}
+\addcontentsline{toc}{subsection}{Hemocentro}
+
+Essa é para quem é (ou para quem quer ser) doador de sangue. O centro de hematologia e hemoterapia (Hemocentro) é o órgão da Unicamp responsável pela coleta e doação de sangue.
+
+Qualquer pessoa pode aparecer no Hemocentro para fazer a doação de sangue. Basta estar com o RG e seguir um conjunto de normas para a doação de sangue. Para saber mais sobre o processo, é só visitar a página do Hemocentro:
+
+\begin{itemize}
+\item \url{www.hemocentro.unicamp.br}
+\end{itemize}
+
+O Hemocentro também faz o projeto doador universitário, que consiste de unidades móveis (ônibus) que param em alguns pontos do campus. Essas unidades fazem a coleta do sangue. Alunos, professores e funcionários podem ir até essas unidades móveis para fazer a doação. Para se informar melhor, é só visitar a página do projeto
+
+O Hemocentro fica localizado acima do HC (próxima ao CECOM). Portanto, se quiser se deslocar até lá, como está escrito acima, é melhor usar o circular interno.
+
+\subsection*{Circular Interno/Moradia}
+\addcontentsline{toc}{subsection}{Circular Interno/Moradia}
+
+O circular interno é um serviço de ônibus gratuito que dá voltas na Unicamp. Há duas linhas diurnas, uma girando no sentido horário e outra no anti-horário. As linhas diurnas só funcionam até às 19h, e a freqüência maior é no horário de almoço. Bom para cobrir boas distâncias como do bandejão à FEEC, e de qualquer lugar ao CECOM. Quase todos os pontos têm os itinerários e os horários afixados. Ele não costuma atrasar nem adiantar mais que 5 minutos, exceto no período de férias.
+
+O circular noturno dá uma volta na Unicamp partindo do balão da avenida 1, passando pela BC, IQ, FEEC, IC e voltando para o balão da avenida 1. Os horários e o itinerário desse ônibus não estão nos pontos como os do circular diurno. Ele funciona das 19h às 23h, a cada meia hora.
+
+O ônibus moradia (ou ``circular externo'') dá uma volta na Unicamp partindo da BC, vai para a moradia e faz o caminho contrário. le também tem duas rotas alternativas em horários específicos que cobrem as regiões da avenida 1, centro de Barão Geraldo e avenida Luís de Tella. Os horários mais lotados do ônibus moradia são 8 da manhã (sentido moradia-Unicamp), horário de almoço (ambos os sentidos), horário de jantar (ambos os sentidos) e o último horário (Unicamp-moradia). Se puder evitar esses horários, faça-o.
+
+Todos os itinerários e horários detalhados dos serviços de ônibus podem ser encontrados na página da Prefeitura da Unicamp:
+
+\begin{itemize}
+\item \url{www.prefeitura.unicamp.br/servicos.php?servID=69}
+\end{itemize}
+
+\subsection*{SAE - Serviço de Apoio ao Estudante}
+\addcontentsline{toc}{subsection}{SAE - Serviço de Apoio ao Estudante}
+
+O SAE -- Serviço de Apoio ao Estudante -- é o principal órgão de apoio ao estudante na Unicamp, atua em várias frentes de assistência estudantil. Esta se dá por meio do gerenciamento de bolsas-auxílio, assistência social e orientações educacional, jurídica e psicológica, além de apoio a projetos acadêmicos e sociais e programa de intercâmbio de estudantes no exterior.
+
+\begin{itemize}
+\item Localização: Prédio do Ciclo Básico, 3º piso.
+\item Horário: Segunda a sexta, das 08h30 às 20h, no período letivo.
+\item E-mail: \url{sae@unicamp.br}
+\item Site: \url{www.sae.unicamp.br}
+\end{itemize}
+
+\subsubsection*{Moradia}
+
+Criado em 1989, o Conjunto Residencial Universitário da Unicamp, tem por finalidade garantir estadia gratuita e de qualidade para os estudantes que passam por dificuldades sócio-econômicas.
+
+Para saber mais sobre o processo seletivo entre em:
+
+\begin{itemize}
+\item \url{www.sae.unicamp.br/portal/index.php?option=com_content&view=article&id=23&Itemid=155}
+\end{itemize}
+
+\subsubsection*{Bolsa-alimentação e transporte}
+
+O objetivo destas bolsas é colaborar com o estudante de graduação e pós-graduação em dificuldade sócio-econômica, nos itens alimentação e transporte. A seleção é feita através de análise de questionário sócio-econômico devidamente preenchido e documentado, e entrevista com a assistente social.
+
+\subsubsection*{Bolsa PAPI}
+
+Busca incentivar a participação de alunos de graduação e de pós-graduação nas mais diversas atividades da Unicamp, tais como no auxílio a eventos. Neste programa, há a solicitação de estudantes por parte de alguma Unidade ou órgão da Unicamp, que poderá indicar o nome do aluno ou deixar a critério do SAE para fazê-lo.
+
+\subsubsection*{Assistência jurídica}
+
+A assistência jurídica do SAE visa orientar os alunos nacionais ou estrangeiros de graduação ou pós-graduação, na resolução de suas questões pessoais de cunho jurídico que envolvam os ramos do Direito, principalmente os seguintes:
+
+\begin{itemize}
+\item Direito Civil: contratos em geral, contratos de locação de imóvel/escritura de compromisso de venda e compra, acidentes de trânsito, reparação de dano, ação revisional de aluguel, separação judicial, divórcio, pensão alimentícia etc.
+\item Direito Penal: violência contra a pessoa, lesões corporais, furto, roubo etc.
+\item Direito do Trabalho: caracterização de relação de emprego para os não-registrados e direitos trabalhistas em geral (normas da C.L.T.).
+\end{itemize}
+
+O aluno deve dirigir-se pessoalmente SAE para obter os esclarecimentos desejados. Delitos de consumo devem ser encaminhados ao SEDECON ou ao PROCON.
+
+Com relação aos contratos de locação, o SAE alerta para algumas dicas importantes:
+
+\begin{itemize}
+\item Jamais pagar qualquer valor antecipadamente (como ``taxas de reserva de imóvel'', ``taxa de contrato'', aluguel antecipado etc), ou fornecer títulos em garantia (cheque pré-datado, nota promissória).
+
+\item Obter o maior número de informações possíveis relativas ao imóvel, ao proprietário e à imobiliária, conferir também as condições e valores para pagamento (aluguel e outros encargos como condomínio, IPTU, seguros etc), para uma real visualização do valor total a ser despendido.
+
+\item Sempre solicitar uma minuta do contrato locação. Não assinar contrato ou qualquer outro documento antes de apresentá-lo para análise por um dos advogados do SAE.
+\end{itemize}
+
+\subsubsection*{Orientação psicológica}
+
+O Serviço de Orientação Psicológica do SAE presta atendimento psicológico ao aluno de graduação, pós-graduação e especial, funcionando em associação com o Serviço de Atendimento Psicológico e Psiquiátrico ao Estudante (SAPPE).
+
+Existem horários para consultas imediatas (ideais para quem está prestes a expulsar um amigo da república ou a surtar com a tese). O tratamento de longo prazo é obtido mediante uma consulta explicativa, um horário de atendimento individual e espera em uma lista de candidatos. Horários disponíveis e motivos especiais podem facilitar seu ingresso, mas lembre-se: não é porque aparentemente não parece importante o motivo pelo qual você procura ajuda que isso não deva ser levado a sério. Em alguns casos, apenas quatro seções são suficientes para a pessoa sair do tratamento (lembrando que ele pode ser interrompido a qualquer momento). Há possibilidade de tratamento em grupo terapêutico, psicoterapia individual, de família e de casal com uma das psicólogas da equipe. O grupo terapêutico é formado levando-se em conta que não devem haver pessoas muito próximas em sua formação, como condição de que o paciente tenha liberdade para falar de seus problemas com menos receio.
+
+\subsubsection*{Cadastro de veículos}
+
+Para você poder entrar e sair da Unicamp sem ter de parar receber e entregar o papel de identificação do veículo você pode cadastrar seu carro junto à Prefeitura do Campus. O cadastramento do veículo deverá ser feito diretamente na Central de Informações (próximo ao balão da avenida 1) de segunda a sexta-feira das 07h às 17h.
+
+Documentos necessários:
+
+\begin{itemize}
+\item Identidade funcional (para funcionários/docentes), identidade estudantil para alunos (vulgo RA), carta de apresentação da unidade para estagiários. Quando se tratar de cartão provisório, apresentar declaração formal: atestado de matrícula (aluno), ou declaração da unidade com número de matrícula fornecido pela DGRH ou FUNCAMP (se docente, funcionário ou estagiário).
+\item Documento do veículo
+\end{itemize}
+
+Há possibilidade de se cadastrar até três veículos, com um custo de R\$5,00 para o segundo e de R\$10,00 para o terceiro veículo.
+
+\section*{Lugares para estudar}
+\addcontentsline{toc}{section}{Lugares para estudar}
+
+\begin{itemize}
+
+\item \textbf{Arcádia (ou mesinhas do IEL):} A Arcádia é um grupo de mesas ao ar livre no IEL (Instituto de Estudos da Linguagem). Em horários de aula é silencioso, é um ambiente muito agradável e por ser ao ar livre, não fecha. Tem dois problemas: o grande fluxo de mulheres no local pode facilmente distraí-lo, principalmente se você as conhecer, e à noite enche de insetos (além da iluminação não ser das melhores). Às vezes, venta bastante e é ruim para estudar com folhas avulsas. Mas ainda assim é um ótimo local para estudar.
+
+\item \textbf{Biblioteca Central (BC):} A BC tem três andares. O primeiro é onde tem os livros gerais e onde a galera estuda. Geralmente é barulhento em épocas de provas, mas é bom porque sempre tem lugar para estudar e fecha às 22h. Se você não se importa com barulho, ou até acha que você faz bastante, esse é o lugar da BC para você estudar. O segundo andar é onde está a BAE, a Biblioteca da Área de Engenharia. Um pouco mais silenciosa que a BC nas mesas externas, esse andar tem salas para estudo em grupo, bastante silenciosas, mas que sempre estão ocupadas em época de provas, e mesas individuais escondidas entre os periódicos. O terceiro andar é para silence freaks. Silencioso como um hospital, esse é o lugar mais silencioso da BC para estudar. Tem umas salinhas de estudo individual e duas mesas para estudo em grupo. O problema é que fecha às 17h, mas o pôr-do-sol de lá de cima também é ma-ra-vi-lho-so.
+
+\item \textbf{Biblioteca do IFGW:} A biblioteca do IFGW (Instituto de Física Gleb Wataghin) é ótima para dias de calor, por ser super gelada (ar-condicionado power!). Tem vantagem sobre as outras bibliotecas pelo fato das salas de estudo serem fora da biblioteca e por isso você não precisa deixar o seu material para entrar na sala de estudos. Recentemente reformada, agora conta com 6 baias para estudo em grupo e quantidade razoável de baias individuais, com tomadas onde você pode plugar seu notebook.
+
+\item \textbf{BIMECC:} A biblioteca do IMECC tem lugares para estudo no seu interior. Na BIMECC e na BAE é que você encontrará a maioria dos livros relacionados a computação e a engenharia elétrica.
+
+\item \textbf{Outras bibliotecas:} Aventure-se por outras bibliotecas, como a da Economia, a da Pedagogia e a da Biologia e as conheça. Para aqueles que gostam (ou são obrigados) a estudar aos fins de semana a BC e as bibliotecas da Educação, da Economia, da Química, da Medicina, do IEL e da Geociências abrem aos sábados. Para saber os horários de funcionamento das bibliotecas, entre no site do SBU.
+
+\item \textbf{Bitolódromo:} o bitolódromo da FEEC fica no fundo do prédio principal, e dispõe de várias mesas para estudo. Além disso é possível usar a rede sem fio da maioria dos laboratórios que ficam no prédio
+
+\item \textbf{Salas de estudo da APOGEEU:} as salas de estudo ficam no segundo andar do prédio da pós, ao lado da sede da APOGEEU. Elas ficam abertas durante a semana, e são bem tranquilas. A sala maior possui várias mesas e só permite estudo individual, a sala menor permite estudos em grupo (mas é necessário agendar o uso na planilha localizada na porta da sala).
+
+\item \textbf{Sua casa:} Se você mora em uma república com pessoas do seu laboratório ou departamento, vá fundo e estude em casa. Se você mora sozinho ou com caras de outros cursos, de graduação ou pós, mas se concentra bem em casa, também o faça. Caso contrário, estude na Unicamp.
+
+\end{itemize}
+
+\section*{Siglas e órgãos importantes e seus significados}
+\addcontentsline{toc}{section}{Siglas e órgãos importantes e seus significados}
+
+\begin{itemize}
+\item \textbf{CCPG (Comissão Central de Pós-Graduação):} Órgão colegiado\footnote{Os alunos têm direito a voz e voto nos colegiados (instâncias decisórias compostas por várias pessoas) da Unicamp, tendo representação discente em número correspondente a um quinto (1/5) dos membros. Geralmente, os representantes discentes são eleitos pelos estudantes ou indicados pelos associações de pós-graduandos. O exercício da representação estudantil e atividades decorrentes não exonera o aluno da freqüência nas atividades escolares, com exceção da participação em reuniões em órgãos colegiados, nos horários em que estes se reúnem para deliberar.} da Unicamp, é encarregada da orientação, supervisão e revisão periódica da pós-graduação na Universidade. Cabe recurso à CCPG de quaisquer decisões das Unidades afetando o ensino.
+
+\item \textbf{Congregação:} É o órgão colegiado do Instituto ou Faculdade. Cabe recurso à Congregação da Unidade de Ensino de quaisquer decisões dos Departamentos e das Coordenações de Curso.
+
+\item \textbf{CONSU (Conselho Universitário):} O Conselho Universitário é o órgão máximo da Universidade, para você entender, seria como o Parlamento Inglês. Assim como o Parlamento manda mais que a rainha, o Consu manda mais que o reitor (embora o reitor faça parte dele e influencie fortemente suas decisões). Existe representação discente da pós-graduação no Consu, eleita por um processo realizado pela Coordenadoria Geral da Universidade.
+
+\item \textbf{CPG (Coordenadoria/Comissão de Pós-Graduação):} Este é o órgão responsável pela pós-graduação na faculdade, coordenando as disciplinas oferecidas e as matrículas na pós. O coordenador atual é o professor Carlos A. Castro e a sua localização é o terceiro andar do prédio da pós.
+
+\item \textbf{Departamento:} É administrado por um professor-chefe e um Conselho Departamental, e é a menor unidade administrativa, didática e científica da Universidade, sendo responsável pelo desenvolvimento dos programas de ensino, pesquisa e extensão dos serviços à comunidade.
+
+\item \textbf{DAC (Diretoria Acadêmica):} É o órgão executivo e informativo, incumbido do registro e controle das atividades discentes da Unicamp. Cuida das matrículas, alteração de matrícula, emissão de documentos, como o histórico escolar, realiza reserva de salas, entre outras atividades.
+
+\item \textbf{SAE (Serviço de Apoio ao Estudante):} É encarregado da execução de programas de assistência desenvolvidas pela Universidade, por iniciativa própria ou mediante convênios firmados com entidades especializadas.
+
+\item \textbf{CR (Coeficiente de Rendimento):} Média ponderada das notas obtidas em todas as disciplinas até o momento. É calculada usando como pesos o número de créditos (horas de aula por semana) de cada disciplina e considerando a seguinte escala: A = 4,0, B = 3,0, C = 2,0, D = 1,0 e E = 0,0.
+
+\item \textbf{PED (Programa de Estágio Docente):} É o programa da universidade destinado aos alunos de pós-graduação que queiram realizar atividades práticas de docência, como monitoria de dúvidas e até mesmo aulas para os alunos de graduação, recebendo uma bolsa pelo trabalho. Se interessar, procure a CPG para se informar mais.
+
+\item \textbf{PB (Prédio Básico, também conhecido como Ciclo Básico II):} prédio com várias salas de aula, que fica em frente ao Bandejão, e serve várias unidades que não possuem espaço físico suficiente para comportar seus alunos de graduação. Além da FEEC, ele e o CB são os lugares onde você possivelmente dará aulas, caso seja PED.
+
+\item \textbf{CB (Ciclo Básico I):} tem finalidade idêntica ao PB, só que é muito melhor equipado e tem um ar-condicionado capaz de matar esquimó de frio. Fica na mesma praça que o PB, só que no outro extremo.
+\end{itemize}
+
+\end{story}
+

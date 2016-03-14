@@ -1,0 +1,100 @@
+%\documentclass[a4paper,oneside]{report}
+\documentclass[11pt,a4paper,openright,twoside,twocolumn]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{url}
+\usepackage{setspace}
+\usepackage[left=2cm,top=2cm,right=2cm,bottom=2cm]{geometry}
+\usepackage{graphicx}
+\usepackage{changepage}
+
+%\usepackage{helvet}
+%\renewcommand{\rmdefault}{phv} % Arial
+%\renewcommand{\sfdefault}{phv} % Arial
+
+%\renewcommand{\familydefault}{\sfdefault}
+
+%\doublespacing
+
+%\setlength{\parskip}{1\baselineskip}
+
+\renewcommand{\thechapter}{}
+\renewcommand{\thesection}{}
+
+\newcommand{\CcImageBy}[1]{%
+	\includegraphics[#1]{creative_commons/cc_by_30.pdf}%
+}
+\newcommand{\CcImageCc}[1]{%
+	\includegraphics[#1]{creative_commons/cc_cc_30.pdf}%
+}
+\newcommand{\CcImageSa}[1]{%
+	\includegraphics[#1]{creative_commons/cc_sa_30.pdf}%
+}
+
+%% Groups
+\newcommand{\CcGroupBySa}[2]{% zoom, gap
+	\CcImageBy{#1}\hspace*{#2}\CcImageSa{#1}%
+}
+
+\begin{document}
+
+%%%%% Capa
+\input{capa.tex}
+%%%%% Licença
+\input{licenca.tex}
+
+\clearpage
+
+\thispagestyle{empty}
+
+\twocolumn
+
+\frontmatter
+
+\def\contentsname{Sumário}
+\tableofcontents
+
+\cleardoublepage
+
+\mainmatter
+
+\renewcommand{\chaptername}{}
+\renewcommand{\thechapter}{}
+
+%%%%% Boas vindas
+\input{boas_vindas.tex}
+%%%%% APOGEEU
+\input{apogeeu.tex}
+%%%%% Lugares para morar
+\input{moradia.tex}
+%%%%% Comida
+\input{alimentacao.tex}
+\twocolumn
+%%%%% Diversão
+\input{lazer.tex}
+%%%%% Transporte
+\input{transporte.tex}
+%%%%% Outras necessidades
+\input{misc.tex}
+%%%%% Unicamp e serviços
+\input{unicamp.tex}
+%%%%% Grupos e entidades
+\input{grupos_entidades.tex}
+
+\clearpage
+\thispagestyle{empty}
+\mbox{}
+
+\clearpage
+\thispagestyle{empty}
+\mbox{}
+
+\clearpage
+\thispagestyle{empty}
+\mbox{}
+
+%%%%% Fundo
+\input{fundo.tex}
+
+\end{document}
+

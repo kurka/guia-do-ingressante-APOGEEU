@@ -1,0 +1,89 @@
+% Este arquivo .tex será incluído no arquivo .tex principal. Não é preciso
+% declarar nenhum cabeçalho
+
+\chapter{Transporte}
+
+\section*{Ônibus}
+\addcontentsline{toc}{section}{Ônibus}
+
+Se não tem condução própria ou carona, pode utilizar uma das várias linhas de ônibus de transporte coletivo urbano para chegar ao campus da Unicamp, localizado em Barão Geraldo. Os coletivos, conforme as linhas, percorrem as principais avenidas da cidade, passando diretamente pela Unicamp ou desembarcando os passageiros no terminal do distrito de Barão Geraldo, de onde seguem em outros ônibus para a universidade.
+
+De ônibus há diversas linhas ligando Campinas a Barão Geraldo. As trocas de ônibus dentro do Terminal de Barão Geraldo são gratuitas, o que não ocorre em outros terminais, como o Terminal Central e o Terminal Mercado, localizados no centro. Em Campinas os ônibus são identificados por um número e por um nome. Veja as linhas de ônibus disponíveis abaixo:
+
+\begin{itemize}
+\item 2.10 -- Terminal Campo Grande / Shop. Dom Pedro / Terminal Barão Geraldo: Sai do Terminal Campo Grande, passa pelo Shopping Dom Pedro, Terminal Barão Geraldo, avenida 1, rua Roxo Moreira (em frente à Reitoria), de novo pelo Shopping Dom Pedro, voltando para o Terminal Campo Grande.
+
+\item 2.66 -- Terminal Padre Anchieta / Hospital das Clínicas: Sai do Terminal Padre Anchieta, passa pelo Makro, em frente ao Terminal Barão Geraldo (mas não entra), avenida 2, Unicamp, PUC, Rodovia D. Pedro I voltando para o Terminal Padre Anchieta.
+
+\item 3.00 -- Sousas / Terminal Barão Geraldo: Sai de Sousas (um dos distritos de Campinas, assim como Barão Geraldo), passa pelo Shopping Galleria, pelo terminal do Shopping Dom Pedro, rodovias Heitor Penteado e Dom Pedro, tapetão e vai em direção ao terminal de Barão Geraldo. O problema é que o intervalo entre os ônibus é de 45 minutos.
+
+\item 3.21 -- Centro Médico / Bosque das Palmeiras: Sai do Terminal Barão e leva à Cidade Universitária II, passando pela avenida 2, pelo parque Hermógenes Leitão Filho (conhecido como Lago da Unicamp) e em frente ao Centro Médico.
+
+\item 3.28 -- Guará: Assim como o 3.21 leva à Cidade Universitária II, mas vai pela estrada da Rhodia, passando pelo meio da Cidade Universitária 2 e seguindo até o Guará.
+
+\item 3.29 -- Terminal Barão Geraldo / Cidade Judiciária: Passa pela Unicamp e segue até a região da sede da CPFL.
+
+\item 3.30 -- Unicamp / Hospital das Clínicas: Do Terminal Central de Campinas à Unicamp, passando pela rótula e avenidas Moraes Salles, Orosimbo Maia, Anchieta (Prefeitura), Brasil e tapetão. Funciona das 6 às 19h30, a cada 15 minutos em média (depende do horário), de segunda a sexta-feira (não funciona nos sábados, domingos e feriados). Para ir do centro até a Unicamp e da Unicamp até o centro, essa linha é mais rápida que o 3.32, só que quase sempre os ônibus dessa linha estão cheios.
+
+\item 3.31 -- Rodoviária / Terminal Barão Geraldo: Opção rápida para ir da rodoviária de Campinas ao Terminal Barão Geraldo (levando cerca de 30 min quando não há trânsito), passando pelo Cambuí. Não passa pela Unicamp e nem pelo Terminal Metropolitano (leia abaixo). Estando na rodoviária, para pegar esse ônibus é necessário ir ao ponto localizado na saída, em frente ao estacionamento de táxis. Leva menos tempo para completar o percurso que o 3.32. Funciona das 5h30 às 23h30, a cada 20 minutos, todos os dias.
+
+\item 3.32 -- Terminal Barão Geraldo / Hospital das Clínicas / Rodoviária (Inclusivo): Da rodoviária de Campinas à Unicamp e depois para o terminal Barão Geraldo. Funciona das 6 às 23 horas, a cada meia hora, todos os dias.
+
+\item 3.32.1 -- Terminal Barão Geraldo / Rodoviária: Segue do Terminal diretamente para a Rodoviária. É o ônibus mais rápido que faz esse percurso.
+
+\item 3.33 -- Terminal Barão Geraldo / Circular Rótula: Do Terminal Barão Geraldo ao centro de Campinas, passando pela rótula, Orozimbo Maia, Anchieta (prefeitura). Não passa pela Unicamp, então para chegar à Unicamp, deve pegar a linha 3.29 ou 3.32. Funciona das 5h30 às 23h30, a cada 10 minutos, todos os dias.
+
+\item 3.37 -- Hospital das Clínicas: Do Terminal Barão Geraldo ao HC, passando pela Unicamp. Funciona das 5h30 às 23h30, a cada 15 minutos, de segunda a sexta-feira.
+
+\item 3.38 -- Terminal Barão Geraldo / Shopping D. Pedro / Shopping Iguatemi: Linha que passa pelos principais shoppings da cidade. Funciona das 5:50 às 23:15, de segunda à sábado, a cada 30 minutos e em domingos e feriados funcionas das 9:00 às 21:40, a cada 40 minutos.
+\end{itemize}
+
+E se pintar qualquer duvida é só entrar no site da EMDEC (\url{http://www.emdec.com.br}) ou da TRANSURC (\url{http://www.transurc.com.br}) para ver os horários e a trajetória de todas as linhas de Campinas
+
+\subsubsection{Bilhete Único}
+
+No prazo de 1 hora e meia (de segunda a sábado) e de 2 horas (nos domingos e feriados), o usuário pode utilizar até três ônibus pagando apenas uma passagem. Para quem usa mais de três ônibus e quer aumentar o número de integrações, tem de ir à sede da TRANSURC, localizado na rua Onze de Agosto, 757, Centro.
+
+Para adquiri-lo, dirija-se ao Terminal Barão Geraldo, Central, Ouro Verde, Campo Grande ou Mercado, munido de seu RG e CPF. Para a primeira recarga exige-se o pagamento de duas tarifas (o que atualmente fica em R\$ 6,00).
+
+Para recarregar o cartão, além dos terminais, também tem diversos estabelecimentos comerciais credenciados a fazer a recarga do cartão, que podem ser vistos na página \url{http://www.transurc.com.br/site/index.php/informacoes/onde-comprar/}.
+
+\subsection*{Terminal Metropolitano}
+
+Em 2008 foi construído o Terminal Metropolitano, cujo intuito é o de ligar as cidades da Região Metropolitana de Campinas. O Terminal Metropolitano fica ao lado da Rodoviária, e o acesso entre eles é interno. Algumas linhas municipais de ônibus em Campinas param lá: um exemplo é o 3.32.
+
+\section*{Voltar para casa}
+\addcontentsline{toc}{section}{Voltar para casa}
+
+Para quem é de fora de Campinas, além de escolher a nova morada é importante recolher informações sobre como realizar o trajeto entre sua cidade e Campinas.
+
+A forma usual é ir de ônibus, mas tenha em mente que a rodoviária é longe e os trajetos de ônibus até lá são demorados. O endereço da rodoviária é Rua Dr. Pereira Lima, s/n. Há duas linhas que passam por lá: o 3.32 (que passa dentro da Unicamp) para dentro da rodoviária, mas demora mais pra chegar que o 3.31, que sai do terminal e para do lado de fora da rodoviária. Em horários de pico, o trajeto pode demorar quase uma hora, então cuidado para não perder o horário do ônibus para sua cidade.
+
+Os que vêm de mais longe certamente farão uso do aeroporto de Viracopos, cujo telefone é 3725-5000. Para chegar ao aeroporto existe a linha 1.93 que sai da rodoviária e vai para o aeroporto, e também faz o trajeto de volta. Porém ir com ônibus circular pode ser um transtorno quando estiver com mala grande. Uma outra alternativa é a Caprioli que também faz o trajeto da rodoviária para o aeroporto. A passagem da Caprioli custa em torno de R\$8,00 e os horários podem ser conferidos no site \url{http://www.caprioli.com.br}.
+
+Para quem for usar os aeroporto da Grande São Paulo (Congonhas e Guarulhos), também existe o translado da Caprioli. A tarifa sai em torno de R\$30,00 a R\$35,00 e os horários podem ser conferidos no site da empresa.
+
+\subsection*{Caronas}
+
+Uma forma barata e divertida de viajar, que também pode reduzir o tempo da viagem, é juntando alguns estudantes no carro e dividir as despesas. O site \url{http://www.unicaronas.com.br} (que, a princípio, era restrito à Unicamp, porém foi recentemente expandido para outras universidades) foi desenvolvido por alunos da universidade, com o intuito de facilitar o deslocamento dos alunos entre sua cidade natal e Campinas. Atualmente existem milhares de pessoas cadastradas.
+
+Para aumentar a segurança das caronas, existe um sistema de comentários para alertar os novos usuários sobre uma carona anterior: se o motorista correu demais, se o motorista ou caronista chegou ao local combinado no horário, se o carro era confortável ou parecia uma lotação, entre outros indicativos relevantes recomendando ou não a carona. No entanto, o site serve apenas como ferramenta para colocar os motoristas e caronistas em contato, não assumindo responsabilidades sobre nenhuma das partes.
+
+\section*{Carro}
+\addcontentsline{toc}{section}{Carro}
+
+Para aqueles que têm seu próprio veículo, é bom saber que a Unicamp tem poucas vagas próximas aos locais de aula, então é melhor chegar cedo se fizer questão de estacionar numa vaga boa. Além disso, o número de fiscais de trânsito dentro do campus tem aumentado muito.
+
+\subsection*{Cadastro de veículos}
+
+Para você poder entrar e sair da Unicamp sem ter de parar receber e entregar o papel de identificação do veículo você pode cadastrar seu carro junto à Prefeitura do Campus. O cadastramento do veículo deverá ser feito diretamente na Central de Informações (próximo ao balão da avenida 1) de segunda a sexta-feira das 07h às 19h.
+
+Documentos necessários:
+
+\begin{itemize}
+\item Identidade funcional (para funcionários/docentes), identidade estudantil para alunos (vulgo RA), carta de apresentação da unidade para estagiários. Quando se tratar de cartão provisório, apresentar declaração formal: atestado de matrícula (aluno), ou declaração da unidade com número de matrícula fornecido pela DGRH ou FUNCAMP (se docente, funcionário ou estagiário).
+\item Documento do veículo
+\end{itemize}
+
+Há possibilidade de se cadastrar até três veículos, com um custo de R\$5,00 para o segundo e de R\$10,00 para o terceiro veículo.
+

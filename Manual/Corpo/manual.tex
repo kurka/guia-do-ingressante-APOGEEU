@@ -1,0 +1,160 @@
+\documentclass[a4paper]{book}
+%
+% Sample journal layout stolen from IAnewsletter
+% FOR ILLUSTRATION PURPOSES ONLY
+% Do not reuse this format without permission from IATAC
+%
+\usepackage[left=16mm,right=0mm,textwidth=114mm,
+     marginparwidth=69.5mm,includemp,top=35mm,
+     bottom=20mm]{geometry}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[svgnames]{xcolor}
+\usepackage{fancyhdr,type1cm,lettrine,fix-cm,multicol,url,
+     graphicx,mdwlist,fancybox,sectsty,bbding,calc,soul}
+\usepackage{changepage}
+%\usepackage{charter,avant}
+
+\renewcommand{\thechapter}{}
+\renewcommand{\thesection}{}
+
+\definecolor{titlegrey}{cmyk}{.8,.8,.8,.2}
+\renewcommand{\LettrineTextFont}{\normalfont}
+\allsectionsfont{\sffamily}
+\setcounter{secnumdepth}{0}
+%
+% One-page story makes its own heading block and sets the 
+% leftmark for the running head
+%
+\newenvironment{story}[2][\relax]{%
+  \if\relax#1\else
+  \markboth{\MakeUppercase{#1}}\fi
+  \vspace*{-6mm}\leavevmode\null\kern-21.5mm\fboxsep15mm%
+    \colorbox{titlegrey}{\vbox to5mm{\hsize111mm\null\vfill
+        \raggedright\color{white}\sffamily\huge\noindent
+        \textbf{#2}\addcontentsline{toc}{chapter}{#2}\par\smallskip}}%
+  \par\vspace{24pt}\parskip 7.2pt\raggedright
+}{% end story
+  }
+%
+% bulleting and indentation parameters for tagged lists
+%
+\setlength{\leftmargini}{14pt}
+\setlength{\leftmarginii}{12pt}
+\renewcommand{\labelitemi}{\rotatebox{90}{\scriptsize\TriangleDown}}
+\renewcommand{\labelitemii}{\textbullet}
+\makecompactlist{taglist}{itemize}
+%
+% parameters for adjusting height offset of top right image
+% and the depth of the grey sidebar
+%
+\newlength{\vpicset}
+\setlength{\vpicset}{68.75mm}
+\newlength{\sbarheight}
+\setlength{\sbarheight}{\textheight - \headheight - \vpicset}
+% sidebar
+\newenvironment{sidebar}[1]{%
+  \begin{Sbox}\begin{minipage}{60mm}\raggedright
+      \subsubsection*{#1}\parskip 7.2pt%
+}{% end sidebar
+  \end{minipage}\end{Sbox}\fboxsep5mm
+  \marginpar{\null\vspace{0mm}\colorbox{LightGrey}{%
+      \vbox to\sbarheight{\TheSbox\vfill}}}}
+%
+% push the image and running head into the headers
+%
+\pagestyle{fancy}
+\fancyfoot[C]{}
+\fancyfoot[L]{\small\sffamily\thepage\footnotesize\qquad
+  \textbf{Manual do Ingressante} 2013\enspace\textbullet\enspace
+  www.apogeeu.fee.unicamp.br}
+\renewcommand{\headrulewidth}{0pt}
+
+\newcommand{\CcImageBy}[1]{%
+	\includegraphics[#1]{creative_commons/cc_by_30.pdf}%
+}
+\newcommand{\CcImageCc}[1]{%
+	\includegraphics[#1]{creative_commons/cc_cc_30.pdf}%
+}
+\newcommand{\CcImageSa}[1]{%
+	\includegraphics[#1]{creative_commons/cc_sa_30.pdf}%
+}
+
+%% Groups
+\newcommand{\CcGroupBySa}[2]{% zoom, gap
+	\CcImageBy{#1}\hspace*{#2}\CcImageSa{#1}%
+}
+
+\makeatletter
+\renewcommand\tableofcontents{%
+  %\pagestyle{plain}%
+  \@starttoc{toc}}
+\makeatother 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+%%%%% Capa
+%\input{capa.tex}
+%%%%% Licença
+\input{licenca.tex}
+
+\clearpage
+
+\frontmatter
+
+\begin{story}{Sumário}
+\tableofcontents
+\end{story}
+
+\cleardoublepage
+
+\mainmatter
+
+%\renewcommand{\chaptername}{}
+%\renewcommand{\thechapter}{}
+
+%%%%% Boas vindas
+\input{boas_vindas.tex}
+\cleardoublepage
+%%%%% APOGEEU
+\input{apogeeu.tex}
+\cleardoublepage
+%%%%% Lugares para morar
+\input{moradia.tex}
+\cleardoublepage
+%%%%% Comida
+\input{alimentacao.tex}
+\cleardoublepage
+%%%%% Diversão
+\input{lazer.tex}
+\cleardoublepage
+%%%%% Transporte
+\input{transporte.tex}
+\cleardoublepage
+%%%%% Outras necessidades
+\input{misc.tex}
+\cleardoublepage
+%%%%% Unicamp e serviços
+\input{unicamp.tex}
+\cleardoublepage
+%%%%% Grupos e entidades
+\input{grupos_entidades.tex}
+
+\clearpage
+%\thispagestyle{empty}
+\mbox{}
+
+%\clearpage
+%\thispagestyle{empty}
+%\mbox{}
+
+%\clearpage
+%\thispagestyle{empty}
+%\mbox{}
+
+%%%%% Fundo
+%\input{fundo.tex}
+
+\end{document}
+

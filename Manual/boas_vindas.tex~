@@ -1,0 +1,65 @@
+% Este arquivo .tex será incluído no arquivo .tex principal. Não é preciso
+% declarar nenhum cabeçalho
+
+\chapter{Boas vindas}
+
+\setcounter{page}{1}
+
+Caro colega,
+
+Parabéns, você acabou de ingressar em um dos poucos programas de pós-graduação em Engenharia Elétrica classificados pela CAPES como curso de excelência máxima (nota 7)! Em breve você irá perceber que não é apenas a estrutura e o nível do corpo docente que fazem uma pós-graduação desse nível, mas também a qualidade e dedicação dos seus alunos. Mas não se assuste! Apesar de todo o suor que você terá pela frente, você verá que ainda é possível conciliar trabalho firme nas aulas e na sua pesquisa com a vida social em Barão Geraldo e Campinas.
+
+Este manual\footnote{Esse manual também pode ser encontrado em nossa página na internet, no endereço \url{http://www.apogeeu.fee.unicamp.br/manual-do-ingressante}.} foi organizado pela APOGEEU (Associação de Pós-Graduandos da Faculdade de Engenharia Elétrica e de Computação da Unicamp) com base no manual do Centro Acadêmico da Computação (CACo) -- \url{http://www.caco.ic.unicamp.br} --, escrito por diversos alunos que contribuíram com informações que serão especialmente úteis para você, ingressante! Assim, esperamos que vocês nos mandem informações sobre erros encontrados, informações sobre restaurantes novos ou que fecharam e por aí vai! Nosso e-mail é apogeeu@fee.unicamp.br.
+
+Onde comer? Onde estudar? Onde morar? Tudo isso são dúvidas comuns, que aqui tentamos ajudar a resolver. Não há respostas prontas, cada um tem suas preferências, mas a gente dá uma mão.
+
+O que é APG? E CPG? E CCPG? E RPG? Como eu faço para pegar uma bolsa? A gente também tenta responder todas essas perguntas. E também damos algumas dicas de onde comprar coisas, onde se divertir e alguns telefones úteis.
+
+Já demos os parabéns, então agora vamos para o que importa: dar umas dicas para os seus primeiros passos na pós-graduação da Unicamp e apresentar a APOGEEU!
+
+\section*{Mensagem do diretor da FEEC}
+\addcontentsline{toc}{section}{Mensagem do diretor da FEEC}
+
+Prezados pós-graduandos da FEEC,
+
+É com grande satisfação que lhes damos boas-vindas à comunidade da Faculdade de Engenharia Elétrica e de Computação. Somos quase 100 docentes, quase 2000 estudantes, entre graduação e pós-graduação e cerca de 50 colaboradores que possibilitam o funcionamento de nossa escola. No orgulhamos de ser o melhor programa de pós-graduação em Engenharia Elétrica do Brasil, o que foi conseguido pelo mérito conjunto de nossos estudantes e professores.
+
+A pós-graduação é mais um passo em um processo de educação que, mais do que nunca, tem que ser contínuo, permanente. O conhecimento é uma riqueza que não ocupa espaço, não tem massa, mas tem peso: o peso da responsabilidade. Estudar em uma escola pública, fianciada com os impostos pagos pela sociedade paulista e brasileira, acresce ainda mais responsabilidade neste processo.
+
+Os saberes de cada um estão em proporção direta com o que se pode esperar de sua atuação profissional, social, política. Assim, desejamos que a nova jornada que se inicia na vida de cada um de vocês lhes traga uma expansão de seus conhecimentos, seja em profundidade, seja em amplitude. Que se estabeleçam novas amizades e que estas perdurem no futuro. Que tenham uma atitude crítica perante nossa escola, o que nos permitirá melhorar continuamente, assim como ante o país e o mundo.
+
+Daqui a algum tempo, terminada esta nova jornada, esperamos que as lembranças destes tempos que estão se iniciando sejam as melhores possíveis e que levar consigo um diploma da Unicamp seja um orgulho e um compromisso com um mundo melhor.
+
+Bem-vindos à FEEC e à Unicamp!
+
+\begin{flushright}
+Prof. José Antenor Pomilio \\
+Diretor da FEEC/Unicamp
+\end{flushright}
+
+\section*{Mensagem do coordenador de pós-graduação}
+\addcontentsline{toc}{section}{Mensagem do coordenador de pós-graduação}
+
+Prezado(a) aluno(a) ingressante,
+
+Seja muito bem-vindo(a) ao Programa de Pós-Graduação em Engenharia Elétrica da Faculdade de Engenharia Elétrica e de Computação (FEEC) da UNICAMP! Você passa a fazer parte de um dos melhores programas de pós-graduação do país nesta área, que possui o conceito máximo (7) concedido pela CAPES, e que tem inserção importante tanto no cenário nacional como internacional.
+
+Você inicia uma nova etapa de amadurecimento e aprendizado profissional, e muito lhe será exigido em termos de estudo, esforço, iniciativa, e disciplina. Naturalmente, a FEEC também se esforçará para lhe oferecer um ambiente de estudo de qualidade, com salas de aula e laboratórios adequados, e professores altamente qualificados, que lhe ajudarão a trilhar esse caminho árduo, porém, extremamente gratificante. Ao chegar ao final do caminho, você certamente sentirá a satisfação da vitória alcançada, o prazer de ter agregado novos conhecimentos à sua história de vida, e a segurança de um futuro promissor, ao longo do qual você poderá atuar de forma construtiva para o desenvolvimento da ciência e da sociedade.
+
+É muito importante que, desde já, você comece essa caminhada com consciência e conhecimento dos seus direitos e deveres. Além da importância que você certamente dará aos seus estudos e pesquisas, deverá também atentar para as regras estabelecidas pelo programa. Você sabe quantos créditos em disciplinas deverá cursar? Sabe o que é o exame de qualificação e quais são os requisitos mínimos para realizá-lo? E o tempo de integralização? O que são as áreas de concentração? Como se convalida créditos? Quais são as condições mínimas para que você possa defender sua tese ou dissertação? As respostas a estas perguntas e a muitas outras mais você encontrará consultando o Catálogo dos Cursos de Pós-Graduação e a página da Comissão de Pós-Graduação (CPG) da FEEC, em
+
+\begin{itemize}
+\item \url{http://www.fee.unicamp.br/cpg}
+\end{itemize}
+
+No link Legislação, você terá acesso ao Regimento Geral dos Cursos de Pós-graduação da UNICAMP e ao Regulamento de Pós-graduação da FEEC. No link Alunos regulares você obterá as informações básicas sobre todos os requisitos para a obtenção do título almejado. O link Calendário lhe indica todas as datas importantes e as respectivas atividades. Há um link com perguntas frequentes (FAQ) e muito mais. Tudo isso para que você tenha segurança na sua caminhada, conhecendo as características e os prazos estabelecidos para cada uma de suas atividades. Aproveitamos para lembrar que na FEEC toda a regulamentação e prazos são seguidos de maneira rigorosa. Por isso, fique bem atento(a) e consulte a página da CPG com regularidade!
+
+Ainda assim, se você tiver dúvidas, ou se simplesmente quiser conversar com a equipe da CPG, saiba que você será muito bem recebido(a) e nos esforçaremos para ajudá-lo(a) da melhor forma. É fundamental que você não tenha nenhum tipo de dúvida e não se veja em situação de prejuízo acadêmico por desconhecimento das regras e prazos. Conte conosco sempre!
+
+Finalizo desejando-lhe muito sucesso!
+
+\begin{flushright}
+Prof. Carlos A. Castro \\
+Coordenador de Pós-Graduação da FEEC/Unicamp
+\end{flushright}
+

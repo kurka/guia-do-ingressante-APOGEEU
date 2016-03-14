@@ -1,0 +1,296 @@
+% Este arquivo .tex será incluído no arquivo .tex principal. Não é preciso
+% declarar nenhum cabeçalho
+
+\begin{story}{Outras necessidades}
+
+\section*{Supermercados}
+\addcontentsline{toc}{section}{Supermercados}
+
+No centro de Barão há três supermercados: o Pague Menos, o Pão-de-Açúcar e o Dalben. No geral, o Pão-de-Açúcar é bem caro, mas tem bom preço em algumas coisas. O Dalben é maior e geralmente tem coisas mais baratas que o Pão-de-Açúcar. Às segundas e terças (no Dalben) e às terças (no Pão de Açúcar) há preço promocional de frutas e verduras. O Dalben localiza-se no alto da avenida 1, na entrada de Barão Geraldo. O Pão de Açúcar funciona de domingo a quinta-feira das 7h às 23h, sextas e sábados das 7h às 24h.
+
+Há também lojas de conveniência (como as AM/PM em frente à Unicamp e no Rio das Pedras, o Star Mart no Texaco do fim da avenida 2 e a do Shell em frente ao terminal, a mais barata das 4) que embora mais caras que os supermercados, podem funcionar em horários que esses não e/ou serem mais perto de onde você mora.
+
+Em frente ao terminal Barão há o Recanto Bela Fruta, que não é exatamente um supermercado, mas é o melhor lugar de Barão para comprar frutas, verduras e legumes. Vende também algumas coisas de supermercado como pão, leite, iogurte, mupy etc. Na avenida Santa Isabel, em frente à Escola Estadual Barão Geraldo de Rezende, há o Hortifruti Oba. Próximo à moradia da Unicamp há o supermercado Benatti. Na estrada da Rhodia, depois da Padaria Di Capri, há a frutaria Rio das Pedras, que tem preços no nível do Pão de Açúcar, mas é mais próximo pra quem vive na Cidade Universitária 2, por exemplo, tem frutas e legumes muito bons e tem algumas coisas diferentes, como um setor de comida japonesa.
+
+Se você tiver carro, ou conhecer alguém que tenha, junte um pessoal e faça suas compras no Tenda Atacado ou no Atacadão. Os dois são muito mais baratos que qualquer supermercado e têm MUITA coisa. Ah, e nem tudo é atacado, vende umas coisas a varejo lá também. Para chegar aos dois, saindo de Barão pelo Tapetão, pegue a D. Pedro sentido Anhanguera. Assim que você entrar na D. Pedro, você já vai enxergar o Atacadão, à direita. Para ir ao Tenda siga mais um pouco na D. Pedro e saia logo depois do CEASA à direita.
+
+Outras opções para quem tem carro são: O Carrefour, localizado na Rodovia D. Pedro e o Wal-Mart, que fica no Shopping Parque D. Pedro.
+
+\section*{Bancos}
+\addcontentsline{toc}{section}{Bancos}
+
+\begin{itemize}
+\item \textbf{Santander:} Possui quatro agências em Barão: uma localizada ao lado da Reitoria, uma no final da rua do RA (próxima ao Banco do Brasil), outra na praça do Ciclo Básico e a outra próxima ao Terminal Barão.
+
+\item \textbf{Banco do Brasil:} Tem várias agências: uma localizada perto da FEEC (ao final da rua do RA), e outras duas no centro de Barão (uma próxima ao Santander, na praça ao lado do Terminal, e outra em frente ao Pague Menos). Há ainda uma agência exclusiva para clientes Estilo próxima aos Correios da Unicamp.
+
+\item \textbf{Itaú:} Possui uma agência na Unicamp, próximo à Reitoria e ao Banco Santander, outra na avenida Santa Isabel, do lado da sorveteria, e mais uma na rua do Pague Menos, próximo à Igreja Santa Isabel. Existe também o Itaú Personnalité, próximo ao Pão de Açuar e ao McDonalds.
+
+\item \textbf{Bradesco:} Agência no centro de Barão, do lado do Banco do Brasil e em frente do Santander, próxima ao Terminal Barão.
+
+\item \textbf{Caixa Econômica Federal:} Localizada na frente do Pão de Açúcar.
+
+\item  \textbf{Citibank:} Localizado no alto da avenida 2, próximo ao posto Shell.
+\end{itemize}
+
+\section*{Sebos e livrarias}
+\addcontentsline{toc}{section}{Sebos e livrarias}
+
+Em Barão há dois sebos: o Cronópio e o Galpão. Geralmente você não encontra muita coisa boa de computação e engenharia neles, mas não custa procurar. O Galpão fica perto do Terminal. Saindo do terminal pela avenida marginal à Albino de Oliveira, vire a primeira à esquerda e a segunda à direita. Funciona de segunda à sexta até às 18h. O Cronópio fica na mesma rua do Galpão, só que bem longe, próximo à padaria Fiori. Seguindo a Santa Isabel, vindo do Centro de Barão, vire à esquerda na esquina que tem uma pizzaria (antes da Fiori). Vire na primeira à esquerda e você está no Cronópio (lá também é um restaurante barato e gostoso).
+
+Na Unicamp há a livraria Toledo, que fica na Faculdade de Educação (Pedago): tem pouca coisa de Engenharia Elétrica lá mas tem alguma coisa de Matemática. Também há a livraria da Unicamp (no IEL), com preços bons mas com quase nada de Exatas. Já a Livraria da Química tem livros de exatas, além de geralmente eles conseguirem importar a um preço bom. Outras livrarias são a Fnac (no Shopping D. Pedro), a Saraiva (no Shopping Iguatemi), a Cultura (no Iguatemi também) e a Siciliano (no Shopping Galleria).
+
+De tempos em tempos há a Feira do Livro, no Ginásio da Unicamp. Há excelentes opções, principalmente de literatura e humanas, com no mínimo 50\% de desconto.
+
+\textbf{Dica:} Antes de comprar um livro, veja se vai ser realmente útil. Do contrário, prefira pegar emprestado de alguma biblioteca ou alugar/comprar de algum colega de laboratório. Outra opção barata é xerocar o livro todo: costuma inclusive sair mais barato do que comprar o original. Caso vá comprar, atente para livrarias virtuais, que podem ter preços muito menores (pesquise sempre no BuscaPé -- \url{www.buscape.com.br}) e emitem boletos para você pagar no banco. Em alguns casos, a livraria da Editora da Unicamp (localizada no piso térreo da BC) pode trazê-lo por um preço menor ainda - consulte sempre!
+
+\begin{itemize}
+\item \textbf{Sebo Galpão:}
+\begin{itemize}
+\item Endereço: Rua Francisco Barros Filho, 16
+\item Telefone: (19) 3289-2044
+\end{itemize}
+
+\item \textbf{Sebo Valise de Cronópio:}
+\begin{itemize}
+\item Endereço: Rua Francisco de Barros Filho, 426
+\item Telefone: (19) 3289-0028
+\end{itemize}
+
+\end{itemize}
+
+\section*{Igrejas}
+\addcontentsline{toc}{section}{Igrejas}
+
+\begin{itemize}
+
+\item \textbf{Assembleia de Deus - Ministério de Belém:}
+\begin{itemize}
+\item Endereço: Rua Júlia Leite de Barros, 54 (próximo à moradia da Unicamp)
+\item Telefone: (19) 3249-0035.
+\item Site: \url{www.adbarao.com.br}
+\end{itemize}
+
+\item \textbf{Comunidade do Estudante Universitário:}
+\begin{itemize}
+\item Endereço: Rua Dr. Ruberlei Boaretto da Silva, 785
+\item E-mail: ceu.campinas@gmail.com
+\end{itemize}
+
+\item \textbf{IBCU - Igreja Batista da Cidade Universitária:}
+\begin{itemize}
+\item Endereço: Rua Tenente Alberto Mendes Jr., 5
+\item Telefone: (19) 3289-4501.
+\item Site: \url{www.ibcu.org.br}
+\end{itemize}
+
+\item \textbf{IBBG - Igreja Batista de Barão Geraldo:}
+\begin{itemize}
+\item Endereço: Rua Luiz Vicentim, 284
+\item Telefone: (19) 3289-1793
+\end{itemize}
+
+\item \textbf{Igreja do Nazareno Betânia:}
+\begin{itemize}
+\item Endereço: Rua Manoel Antunes Novo, 98
+\item Telefone: (19) 3289-7379
+\end{itemize}
+
+\item \textbf{IPBG - Igreja Presbiteriana de Barão Geraldo:}
+\begin{itemize}
+\item Endereço: Rua Francisco Andreo Aledo, 141 (próximo à Praça do Coco e à moradia)
+\item Telefone: (19) 3289-3239
+\end{itemize}
+
+\item \textbf{Paróquia Santa Isabel:}
+\begin{itemize}
+\item Endereço: Rua Benedito Alves Aranha, 226
+\item Telefones: (19) 3289-1101 / (19) 3289-2323
+\item Site: \url{www.paroquiasantaisabel.org.br}
+\end{itemize}
+
+\item \textbf{Santuário Nossa Senhora Desatadora dos Nós:}
+\begin{itemize}
+\item Endereço: Rua Estácio de Sá, 466 - Santa Genebra
+\item Telefone: (19) 3242-3211
+\item Site: \url{www.mariadesatadoradosnos.com.br}
+\end{itemize}
+
+\item \textbf{Paróquia Frei Galvão:}
+\begin{itemize}
+\item Endereço: Avenida Angelino Gregório, 46 - Jardim América
+\item Telefone: (19) 3289-2249
+\item Site: \url{www.paroquiafreigalvao.com}
+\end{itemize}
+
+\end{itemize}
+
+\section*{Farmácias}
+\addcontentsline{toc}{section}{Farmácias}
+
+\begin{itemize}
+
+\item \textbf{Botica da Terra:}
+\begin{itemize}
+\item Endereço: Avenida Santa Isabel, 15
+\item Telefone: (19) 3289-9422
+\end{itemize}
+
+\item \textbf{Drogafarma:}
+\begin{itemize}
+\item Endereço: Avenida Santa Isabel, 1510 -- loja 06
+\item Telefone: (19) 3289-5282
+\end{itemize}
+
+\item \textbf{Droga Raia:}
+\begin{itemize}
+\item Endereço: Avenida Albino J. B. de Oliveira, 1060
+\item Telefone: (19) 3289-0169
+\end{itemize}
+
+\item \textbf{Drogaria Farmais:}
+\begin{itemize}
+\item Endereço: Avenida Santa Isabel, 183
+\item Telefone: (19) 3289-1045 / 3289-4025
+\end{itemize}
+
+\item \textbf{Drogaria Vitória:}
+\begin{itemize}
+\item Endereço: Rua Dr. Ruberey Boaretto Silva, 1015
+\item Telefone: (19) 3289-4198 / (19) 3289-9926
+\end{itemize}
+
+\item \textbf{FarmaVita:}
+\begin{itemize}
+\item Endereço: Avenida Albino J. B. de Oliveira, 976
+\item Telefone: 0800-10-2023
+\end{itemize}
+
+\item \textbf{Good Farma Drogaria:}
+\begin{itemize}
+\item Endereço: Rua José Pugliesi Filho, 380
+\item Telefone: (19) 3287-4386
+\end{itemize}
+
+\item \textbf{Granfarma:}
+\begin{itemize}
+\item Endereço: Rua Armando Sebastião Bonomi, 61
+\item Telefone: (19) 3289-3089
+\end{itemize}
+
+\item \textbf{MagisPharma:}
+\begin{itemize}
+\item Endereço: Avenida Santa Isabel, 284
+\item Telefone: (19) 3289-2319 / (19) 3289-1923
+\end{itemize}
+
+\item \textbf{Superfarma:}
+\begin{itemize}
+\item Endereço: Avenida Albino J. B. de Oliveira, 1567
+\item Telefone: (19) 3289-2729
+\end{itemize}
+
+\item \textbf{Rede Farmaxima:}
+\begin{itemize}
+\item Endereço: Av. Dr. Romeu Tortima, 255
+\item Telefone: (19) 3289-2824 / (19) 3289-4054
+\end{itemize}
+
+\end{itemize}
+
+\section*{Utilidades em geral}
+\addcontentsline{toc}{section}{Utilidades em geral}
+
+\begin{itemize}
+
+\item \textbf{Circuito das Águas:}
+\begin{itemize}
+\item Endereço: Rua Júlia Leite de Barros, 182
+\item Telefone: (19) 3289-4930
+\end{itemize}
+
+\item \textbf{Ki-Água:}
+\begin{itemize}
+\item Endereço: Rua Eduardo Modesto, 240
+\item Telefone: (19) 3289-4659
+\end{itemize}
+
+\item \textbf{Genebra gás:}
+\begin{itemize}
+\item Endereço: Avenida Santa Isabel, 622
+\item Telefone: (19) 3289-3622
+\end{itemize}
+
+\item \textbf{Real Gás:}
+\begin{itemize}
+\item Endereço: Rua Eduardo Pereira de Almeida, 570
+\item Telefone: (19) 3289-1786
+\end{itemize}
+
+\item \textbf{Carpintaria São Jorge de Barão:}
+\begin{itemize}
+\item Endereço: Avenida Santa Isabel, 1882
+\item Telefone: (19) 3289-3399
+\end{itemize}
+
+\item \textbf{Desentupimento 24 horas:}
+\begin{itemize}
+\item Telefone: (19) 3242-1249
+\end{itemize}
+
+\item \textbf{New Laundry Lavanderia:}
+\begin{itemize}
+\item Endereço: Rua Francisca Resende Merciai, 54
+\item Telefone: (19) 3289-3922
+\end{itemize}
+
+\item \textbf{Lavanderia Water Bubbles:}
+\begin{itemize}
+\item Lavanderia estilo americana (self-service), na qual se paga pelo uso da máquina de lavar, não por peça ou por peso.
+\item Endereço: Avenida Prof. Atílio Martini, 822 - Loja 2
+\item Telefone: (19) 3203-0068
+\end{itemize}
+
+\item \textbf{Sanasa (companhia de água):}
+\begin{itemize}
+\item Telefone: 0800-772-1195
+\end{itemize}
+
+\item \textbf{Drogaria Nova Barão:}
+\begin{itemize}
+\item Telefone: (19) 3289-6191
+\end{itemize}
+
+\item \textbf{Drogaria Vitória:}
+\begin{itemize}
+\item Endereço: Avenida Ruberley Bueretto da Silva, 1015
+\item Telefone: (19) 3289-9926
+\end{itemize}
+
+\item \textbf{João Cabelereiros:}
+\begin{itemize}
+\item Endereço: Rua Orácio Leonardi, 92
+\item Telefone: (19) 3289-3084
+\end{itemize}
+
+\item \textbf{Luigi Cabelereiro:}
+\begin{itemize}
+\item Telefone: (19) 3288-0198
+\end{itemize}
+
+\item \textbf{Correios - Centro de Barão:}
+\begin{itemize}
+\item Endereço: Avenida Santa Isabel, 218
+\item Telefone: (19) 3288-0244
+\end{itemize}
+
+\item \textbf{Correios - Unicamp:}
+\begin{itemize}
+\item Endereço: Rua Carlos Gomes, 241 (próximo ao ginásio e Instituto de Artes)
+\item Telefone: (19) 3289-7288 / (19) 3521-7642
+\end{itemize}
+
+\end{itemize}
+
+\end{story}
+

@@ -1,0 +1,1775 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="verso.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.53740115"
+     inkscape:cx="286.06583"
+     inkscape:cy="309.65528"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path18616"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotM"
+       style="overflow:visible">
+      <path
+         id="path18656"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Sstart"
+       style="overflow:visible">
+      <path
+         id="path18622"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Sstart"
+       style="overflow:visible">
+      <path
+         id="path18604"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.2) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path18598"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path18592"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Sstart-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path18622-6"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(0.3,0,0,0.3,-0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path18616-2"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path18616-7"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path18616-5"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-14"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path18616-8"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-308.2677)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Camada 1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3187"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Ubuntu;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Ubuntu;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3189"><rect
+           id="rect3191"
+           width="305.26315"
+           height="577.63159"
+           x="371.05264"
+           y="126.98922"
+           style="font-size:12px;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
+         id="flowPara3193" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3195"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-14.867502,822.37417)"><flowRegion
+         id="flowRegion3197"><rect
+           id="rect3199"
+           width="307.89474"
+           height="635.52637"
+           x="369.73685"
+           y="124.35764" /></flowRegion><flowPara
+         style="font-size:12px"
+         id="flowPara3401" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3195-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(-365.65489,764.79417)"><flowRegion
+         id="flowRegion3197-3"><rect
+           id="rect3199-44"
+           width="307.89474"
+           height="794.737"
+           x="369.73685"
+           y="124.35764"
+           style="font-weight:normal;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara4103" /></flowRoot>    <flowRoot
+       transform="translate(-365.567,235.2906)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot3497"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3499"><rect
+           style="font-weight:normal;-inkscape-font-specification:Sans"
+           y="124.35764"
+           x="369.73685"
+           height="794.737"
+           width="307.89474"
+           id="rect3501" /></flowRegion><flowPara
+         id="flowPara3517"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans" /></flowRoot>    <flowRoot
+       transform="translate(-365.567,362.54392)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot3537"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3539"><rect
+           style="font-weight:normal;-inkscape-font-specification:Sans"
+           y="124.35764"
+           x="369.73685"
+           height="794.737"
+           width="307.89474"
+           id="rect3541" /></flowRegion><flowPara
+         id="flowPara3557"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans" /></flowRoot>    <flowRoot
+       transform="translate(-365.567,551.84803)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot3575"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3577"><rect
+           style="font-weight:normal;-inkscape-font-specification:Sans"
+           y="124.35764"
+           x="369.73685"
+           height="794.737"
+           width="307.89474"
+           id="rect3579" /></flowRegion><flowPara
+         id="flowPara3595"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans" /></flowRoot>    <flowRoot
+       transform="translate(-365.567,695.94706)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot3615"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3617"><rect
+           style="font-weight:normal;-inkscape-font-specification:Sans"
+           y="124.35764"
+           x="369.73685"
+           height="794.737"
+           width="307.89474"
+           id="rect3619" /></flowRegion><flowPara
+         id="flowPara3635"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans" /></flowRoot>    <flowRoot
+       transform="translate(-14.902652,378.99146)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3738"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3740"><rect
+           y="124.35764"
+           x="369.73685"
+           height="635.52637"
+           width="307.89474"
+           id="rect3742" /></flowRegion><flowPara
+         style="font-size:12px"
+         id="flowPara3930" /></flowRoot>    <flowRoot
+       transform="translate(-14.896792,494.03654)"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4279"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4281"><rect
+           y="124.35764"
+           x="369.73685"
+           height="635.52637"
+           width="307.89474"
+           id="rect4283"
+           style="font-size:18px" /></flowRegion><flowPara
+         id="flowPara4351"
+         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold" /></flowRoot>    <flowRoot
+       transform="translate(-14.902652,529.98792)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4557"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4559"><rect
+           y="124.35764"
+           x="369.73685"
+           height="635.52637"
+           width="307.89474"
+           id="rect4561" /></flowRegion><flowPara
+         id="flowPara4629"
+         style="font-size:12px" /></flowRoot>    <flowRoot
+       transform="translate(-14.867502,646.38459)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4805"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4807"><rect
+           y="124.35764"
+           x="369.73685"
+           height="635.52637"
+           width="307.89474"
+           id="rect4809" /></flowRegion><flowPara
+         style="font-size:12px"
+         id="flowPara5441" /></flowRoot>    <flowRoot
+       transform="translate(-15.705392,790.39257)"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5000"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5002"><rect
+           y="124.35764"
+           x="369.73685"
+           height="635.52637"
+           width="307.89474"
+           id="rect5004"
+           style="font-size:18px" /></flowRegion><flowPara
+         id="flowPara5072"
+         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold" /></flowRoot>    <rect
+       style="fill:#ececec;fill-opacity:1;stroke:none"
+       id="rect3160"
+       width="885.82678"
+       height="235.6501"
+       x="237.40154"
+       y="-517.32281"
+       inkscape:export-filename="/home/alan/Desktop/APGs e CCPG/APOGEEU/Manual/frente.png"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <flowRoot
+       transform="translate(-77.989435,536.85084)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3932"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3934"><rect
+           y="124.35764"
+           x="369.73685"
+           height="1028.9475"
+           width="206.57893"
+           id="rect3936" /></flowRegion><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara4276">Então deixamos o convite para você <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4346">participar da APOGEEU</flowSpan>, indo às nossas <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4348">reuniões</flowSpan>, que são realizadas todas as <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4350">quartas</flowSpan>, <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4352">das 10h às 11h30</flowSpan>, e/ou ajudando em atividades que te interessem. Você pode se manter informado sobre eventos e discussões da APOGEEU inscrevendo-se em nosso grupo de e-mails:</flowPara><flowPara
+         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="flowPara4813">groups.google.com/group/apogeeu-divulgacao</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3658"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(-362.54407,197.3748)"><flowRegion
+         id="flowRegion3660"><rect
+           id="rect3662"
+           width="278.94736"
+           height="867.10547"
+           x="369.73685"
+           y="124.35764"
+           style="font-weight:normal;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara3689"
+         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold">Bolsas</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3778"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(-360.98547,228.3559)"><flowRegion
+         id="flowRegion3780"><rect
+           id="rect3782"
+           width="271.05261"
+           height="584.21075"
+           x="369.73685"
+           y="124.35764"
+           style="font-weight:normal;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara3808"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans">A FEEC possui um número de bolsas de mestrado e doutorado, fornecidas pela CAPES e pelo CNPq (agências federais de fomento à pesquisa). Para concorrer a uma dessas bolsas, é preciso ter manifestado interesse ao realizar sua inscrição para o processo seletivo da pós-graduação na FEEC. Não esqueça, também, de avisar seu orientador sobre seu interesse em bolsa.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3866"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(-360.98547,372.79112)"><flowRegion
+         id="flowRegion3868"><rect
+           id="rect3870"
+           width="268.42105"
+           height="438.15811"
+           x="369.73685"
+           y="124.35764"
+           style="font-weight:normal;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara3896"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans">A CPG publicou em seu site as <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4234">listas de prioridade na alocação de bolsas</flowSpan> de mestrado e de doutorado, ordenadas de acordo com o desempenho de cada orientador e departamento. Conforme as bolsas atuais forem sendo liberadas elas serão atribuídas a alunos na lista. Não há previsão oficial de quando cada aluno irá receber bolsa, porém a média de espera é de cerca de 2 meses.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3948"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(-361.54212,532.22633)"><flowRegion
+         id="flowRegion3950"><rect
+           id="rect3952"
+           width="271.05261"
+           height="281.57916"
+           x="369.73685"
+           y="124.35764"
+           style="font-weight:normal;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara3978"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"><flowSpan
+   id="flowSpan3968"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">Importante:</flowSpan> As listas de prioridade na alocação de bolsas são refeitas a cada semestre. Caso um aluno não receba uma bolsa até o final de julho, ele será colocado na lista de bolsas do segundo semestre. No entanto, esse aluno não terá qualquer prioridade nessa nova lista de bolsas, estando na mesma situação que os alunos ingressantes no segundo semestre. Nos últimos semestres cerca de um terço dos alunos inscritos na lista de prioridades não receberam bolsa.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4030"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(-360.95032,721.66154)"><flowRegion
+         id="flowRegion4032"><rect
+           id="rect4034"
+           width="268.42105"
+           height="415.7897"
+           x="369.73685"
+           y="124.35764"
+           style="font-weight:normal;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara4060"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"><flowSpan
+   id="flowSpan4056"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">Valores:</flowSpan> Os valores das bolsas de mestrado e de doutorado (CAPES e CNPq) são de R$1350,00 e R$2000,00 mensais.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4123"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(-360.95032,778.17097)"><flowRegion
+         id="flowRegion4125"><rect
+           id="rect4127"
+           width="260.52628"
+           height="140.7897"
+           x="369.73685"
+           y="124.35764"
+           style="font-weight:normal;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara4153"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"><flowSpan
+   id="flowSpan4155"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">Alternativas:</flowSpan> Além das bolsas da quota institucional, também há bolsas da FAPESP e de convênios com empresas e outros órgãos. Os <flowSpan
+   id="flowSpan4157"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">valores</flowSpan> dessas bolsas costumam ser <flowSpan
+   id="flowSpan4159"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">melhores</flowSpan>, mas elas possuem exigências diferenciadas, como envio de projetos de pesquisa e relatórios periódicos. <flowSpan
+   id="flowSpan4161"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">Converse com seu orientador</flowSpan> sobre o assunto!</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4358"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-77.989435,746.5948)"><flowRegion
+         id="flowRegion4360"><rect
+           id="rect4362"
+           width="206.57893"
+           height="1028.9475"
+           x="369.73685"
+           y="124.35764" /></flowRegion><flowPara
+         id="flowPara4396"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans" /><flowPara
+         id="flowPara4398"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"><flowSpan
+   id="flowSpan4400"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">Site:</flowSpan> www.apogeeu.fee.unicamp.br</flowPara><flowPara
+         id="flowPara4402"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"><flowSpan
+   id="flowSpan4404"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">E-mail:</flowSpan> apogeeu@fee.unicamp.br</flowPara><flowPara
+         id="flowPara4406"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"><flowSpan
+   id="flowSpan4408"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">Twitter:</flowSpan> twitter.com/apogeeu</flowPara><flowPara
+         id="flowPara4410"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"><flowSpan
+   id="flowSpan4412"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">Facebook:</flowSpan> facebook.com/APOGEEU</flowPara><flowPara
+         id="flowPara4414"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"><flowSpan
+   id="flowSpan4416"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">Google+:</flowSpan> goo.gl/WQ9fO</flowPara><flowPara
+         id="flowPara4418"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans" /><flowPara
+         id="flowPara4420"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans" /><flowPara
+         id="flowPara4422"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4506"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-77.989435,735.23597)"><flowRegion
+         id="flowRegion4508"><rect
+           id="rect4510"
+           width="206.57893"
+           height="1028.9475"
+           x="369.73685"
+           y="124.35764" /></flowRegion><flowPara
+         id="flowPara4542"
+         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold">Contatos</flowPara><flowPara
+         id="flowPara4570"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4815"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-77.989435,223.43403)"><flowRegion
+         id="flowRegion4817"><rect
+           id="rect4819"
+           width="206.57893"
+           height="1028.9475"
+           x="369.73685"
+           y="124.35764" /></flowRegion><flowPara
+         id="flowPara4825"
+         style="font-size:12px">Possivelmente quando você estava na graduação você tinha um centro acadêmico, que tinha como responsabilidade defender os alunos, representá-los junto à universidade, organizar atividades e outras coisas do tipo. Pois é, uma <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4827">Associação de Pós-Graduandos</flowSpan> (ou <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4829">APG</flowSpan>) tem essas funções também!</flowPara><flowPara
+         id="flowPara4849"
+         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold" /></flowRoot>    <flowRoot
+       transform="translate(-77.989435,381.35239)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4903"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4905"><rect
+           y="124.35764"
+           x="369.73685"
+           height="1028.9475"
+           width="206.57893"
+           id="rect4907" /></flowRegion><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara4921">A APOGEEU é atualmente uma das mais importantes associações de pós-graduandos do Brasil. Esse respeito adquirido é fruto de muito trabalho dos voluntários. Certamente poderia ser feito muito mais coisa, mas para isso é preciso de mais pessoas para trabalharem! Sem apoio não fazemos nada!</flowPara><flowPara
+         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="flowPara4923" /></flowRoot>    <flowRoot
+       transform="translate(-77.989435,196.59477)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4938"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4940"><rect
+           y="124.35764"
+           x="369.73685"
+           height="1028.9475"
+           width="206.57893"
+           id="rect4942" /></flowRegion><flowPara
+         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="flowPara4944">A APOGEEU</flowPara><flowPara
+         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="flowPara4954" /></flowRoot>    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-ydpi="360"
+       inkscape:export-xdpi="360"
+       inkscape:export-filename="/home/alan/Desktop/APGs e CCPG/APOGEEU/Manual/frente.png"
+       y="-1132.0876"
+       x="237.40154"
+       height="306.51733"
+       width="885.82678"
+       id="rect5053"
+       style="fill:#ececec;fill-opacity:1;stroke:none" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5055"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(465.9082,536.85084)"><flowRegion
+         id="flowRegion5057"><rect
+           id="rect5059"
+           width="206.57893"
+           height="1028.9475"
+           x="369.73685"
+           y="124.35764" /></flowRegion><flowPara
+         id="flowPara5061"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans">Então deixamos o convite para você <flowSpan
+   id="flowSpan5063"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">participar da APOGEEU</flowSpan>, indo às nossas <flowSpan
+   id="flowSpan5065"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">reuniões</flowSpan>, que são realizadas todas as <flowSpan
+   id="flowSpan5067"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">quartas</flowSpan>, <flowSpan
+   id="flowSpan5069"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">das 10h às 11h30</flowSpan>, e/ou ajudando em atividades que te interessem. Você pode se manter informado sobre eventos e discussões da APOGEEU inscrevendo-se em nosso grupo de e-mails:</flowPara><flowPara
+         id="flowPara5071"
+         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold">groups.google.com/group/apogeeu-divulgacao</flowPara></flowRoot>    <flowRoot
+       transform="translate(181.35356,197.3748)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot5073"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5075"><rect
+           style="font-weight:normal;-inkscape-font-specification:Sans"
+           y="124.35764"
+           x="369.73685"
+           height="867.10547"
+           width="278.94736"
+           id="rect5077" /></flowRegion><flowPara
+         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="flowPara5079">Bolsas</flowPara></flowRoot>    <flowRoot
+       transform="translate(182.91216,228.3559)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot5081"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5083"><rect
+           style="font-weight:normal;-inkscape-font-specification:Sans"
+           y="124.35764"
+           x="369.73685"
+           height="584.21075"
+           width="271.05261"
+           id="rect5085" /></flowRegion><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5087">A FEEC possui um número de bolsas de mestrado e doutorado, fornecidas pela CAPES e pelo CNPq (agências federais de fomento à pesquisa). Para concorrer a uma dessas bolsas, é preciso ter manifestado interesse ao realizar sua inscrição para o processo seletivo da pós-graduação na FEEC. Não esqueça, também, de avisar seu orientador sobre seu interesse em bolsa.</flowPara></flowRoot>    <flowRoot
+       transform="translate(182.91216,372.79112)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot5089"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5091"><rect
+           style="font-weight:normal;-inkscape-font-specification:Sans"
+           y="124.35764"
+           x="369.73685"
+           height="438.15811"
+           width="268.42105"
+           id="rect5093" /></flowRegion><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5095">A CPG publicou em seu site as <flowSpan
+   id="flowSpan5097"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">listas de prioridade na alocação de bolsas</flowSpan> de mestrado e de doutorado, ordenadas de acordo com o desempenho de cada orientador e departamento. Conforme as bolsas atuais forem sendo liberadas elas serão atribuídas a alunos na lista. Não há previsão oficial de quando cada aluno irá receber bolsa, porém a média de espera é de cerca de 2 meses.</flowPara></flowRoot>    <flowRoot
+       transform="translate(182.35551,532.22633)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot5099"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5101"><rect
+           style="font-weight:normal;-inkscape-font-specification:Sans"
+           y="124.35764"
+           x="369.73685"
+           height="281.57916"
+           width="271.05261"
+           id="rect5103" /></flowRegion><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5105"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan5107">Importante:</flowSpan> As listas de prioridade na alocação de bolsas são refeitas a cada semestre. Caso um aluno não receba uma bolsa até o final de julho, ele será colocado na lista de bolsas do segundo semestre. No entanto, esse aluno não terá qualquer prioridade nessa nova lista de bolsas, estando na mesma situação que os alunos ingressantes no segundo semestre. Nos últimos semestres cerca de um terço dos alunos inscritos na lista de prioridades não receberam bolsa.</flowPara></flowRoot>    <flowRoot
+       transform="translate(182.94731,721.66154)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot5109"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5111"><rect
+           style="font-weight:normal;-inkscape-font-specification:Sans"
+           y="124.35764"
+           x="369.73685"
+           height="415.7897"
+           width="268.42105"
+           id="rect5113" /></flowRegion><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5115"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan5117">Valores:</flowSpan> Os valores das bolsas de mestrado e de doutorado (CAPES e CNPq) são de R$1350,00 e R$2000,00 mensais.</flowPara></flowRoot>    <flowRoot
+       transform="translate(182.94731,778.17097)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot5119"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5121"><rect
+           style="font-weight:normal;-inkscape-font-specification:Sans"
+           y="124.35764"
+           x="369.73685"
+           height="140.7897"
+           width="260.52628"
+           id="rect5123" /></flowRegion><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5125"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan5127">Alternativas:</flowSpan> Além das bolsas da quota institucional, também há bolsas da FAPESP e de convênios com empresas e outros órgãos. Os <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan5129">valores</flowSpan> dessas bolsas costumam ser <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan5131">melhores</flowSpan>, mas elas possuem exigências diferenciadas, como envio de projetos de pesquisa e relatórios periódicos. <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan5133">Converse com seu orientador</flowSpan> sobre o assunto!</flowPara></flowRoot>    <flowRoot
+       transform="translate(465.9082,746.5948)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5135"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5137"><rect
+           y="124.35764"
+           x="369.73685"
+           height="1028.9475"
+           width="206.57893"
+           id="rect5139" /></flowRegion><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5141" /><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5143"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan5145">Site:</flowSpan> www.apogeeu.fee.unicamp.br</flowPara><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5147"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan5149">E-mail:</flowSpan> apogeeu@fee.unicamp.br</flowPara><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5151"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan5153">Twitter:</flowSpan> twitter.com/apogeeu</flowPara><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5155"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan5157">Facebook:</flowSpan> facebook.com/APOGEEU</flowPara><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5159"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan5161">Google+:</flowSpan> goo.gl/WQ9fO</flowPara><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5163" /><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5165" /><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5167" /></flowRoot>    <flowRoot
+       transform="translate(465.9082,735.23597)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5169"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5171"><rect
+           y="124.35764"
+           x="369.73685"
+           height="1028.9475"
+           width="206.57893"
+           id="rect5173" /></flowRegion><flowPara
+         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="flowPara5175">Contatos</flowPara><flowPara
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans"
+         id="flowPara5177" /></flowRoot>    <flowRoot
+       transform="translate(465.9082,223.43403)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5179"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5181"><rect
+           y="124.35764"
+           x="369.73685"
+           height="1028.9475"
+           width="206.57893"
+           id="rect5183" /></flowRegion><flowPara
+         style="font-size:12px"
+         id="flowPara5185">Possivelmente quando você estava na graduação você tinha um centro acadêmico, que tinha como responsabilidade defender os alunos, representá-los junto à universidade, organizar atividades e outras coisas do tipo. Pois é, uma <flowSpan
+   id="flowSpan5187"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">Associação de Pós-Graduandos</flowSpan> (ou <flowSpan
+   id="flowSpan5189"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">APG</flowSpan>) tem essas funções também!</flowPara><flowPara
+         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="flowPara5191" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5193"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(465.9082,381.35239)"><flowRegion
+         id="flowRegion5195"><rect
+           id="rect5197"
+           width="206.57893"
+           height="1028.9475"
+           x="369.73685"
+           y="124.35764" /></flowRegion><flowPara
+         id="flowPara5199"
+         style="font-size:12px;font-weight:normal;-inkscape-font-specification:Sans">A APOGEEU é atualmente uma das mais importantes associações de pós-graduandos do Brasil. Esse respeito adquirido é fruto de muito trabalho dos voluntários. Certamente poderia ser feito muito mais coisa, mas para isso é preciso de mais pessoas para trabalharem! Sem apoio não fazemos nada!</flowPara><flowPara
+         id="flowPara5201"
+         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5203"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(465.9082,196.59477)"><flowRegion
+         id="flowRegion5205"><rect
+           id="rect5207"
+           width="206.57893"
+           height="1028.9475"
+           x="369.73685"
+           y="124.35764" /></flowRegion><flowPara
+         id="flowPara5209"
+         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold">A APOGEEU</flowPara><flowPara
+         id="flowPara5211"
+         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path5222-1"
+       d="m 281.6754,1040.8881 a 1.0651733,2.9045549 0 0 0 2.125,-0.2552 l 0,-720.39673 a 1.0651733,2.9045549 0 1 0 -2.125,0 l 0,720.39673 a 1.0651733,2.9045549 0 0 0 0,0.2552 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.13013363;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.13013363;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 825.57299,1040.8881 a 1.0651733,2.9045549 0 0 0 2.125,-0.2552 l 0,-720.39673 a 1.0651733,2.9045549 0 1 0 -2.125,0 l 0,720.39673 a 1.0651733,2.9045549 0 0 0 0,0.2552 z"
+       id="path5399"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     inkscape:label="Printing Marks"
+     id="printing-marks">
+    <g
+       id="CropMarks"
+       inkscape:label="CropMarks">
+      <path
+         d="M 0,-70.866141732 L 0,-106.299212598"
+         id="cropTL1"
+         style="stroke:#000000;stroke-width:0.25;fill:none" />
+      <path
+         d="M -70.866141732,0 L -106.299212598,0"
+         id="cropTL2"
+         style="stroke:#000000;stroke-width:0.25;fill:none" />
+      <path
+         d="M 1052.3622,-70.866141732 L 1052.3622,-106.299212598"
+         id="cropTR1"
+         style="stroke:#000000;stroke-width:0.25;fill:none" />
+      <path
+         d="M 1123.22834173,0 L 1158.6614126,0"
+         id="cropTR2"
+         style="stroke:#000000;stroke-width:0.25;fill:none" />
+      <path
+         d="M 0,814.960621732 L 0,850.393692598"
+         id="cropBL1"
+         style="stroke:#000000;stroke-width:0.25;fill:none" />
+      <path
+         d="M -70.866141732,744.09448 L -106.299212598,744.09448"
+         id="cropBL2"
+         style="stroke:#000000;stroke-width:0.25;fill:none" />
+      <path
+         d="M 1052.3622,814.960621732 L 1052.3622,850.393692598"
+         id="cropBR1"
+         style="stroke:#000000;stroke-width:0.25;fill:none" />
+      <path
+         d="M 1123.22834173,744.09448 L 1158.6614126,744.09448"
+         id="cropBR2"
+         style="stroke:#000000;stroke-width:0.25;fill:none" />
+    </g>
+    <g
+       id="RegistrationMarks"
+       inkscape:label="RegistrationMarks">
+      <g
+         id="regMarkL">
+        <path
+           id="path3177"
+           transform="translate(-88.582677165,318.897633701) rotate(0)"
+           d="m -0.0,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#000000" />
+        <path
+           id="path3179"
+           transform="translate(-88.582677165,318.897633701) rotate(0)"
+           d="m -3.5433070866,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#00ffff" />
+        <path
+           id="path3181"
+           transform="translate(-88.582677165,318.897633701) rotate(0)"
+           d="m -7.0866141732,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#ff00ff" />
+        <path
+           id="path3183"
+           transform="translate(-88.582677165,318.897633701) rotate(0)"
+           d="m -10.6299212598,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#ffff00" />
+        <path
+           id="path3185"
+           transform="translate(-88.582677165,318.897633701) rotate(0)"
+           d="m -14.1732283464,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#000000" />
+      </g>
+      <g
+         id="regMarkR">
+        <path
+           id="path3188"
+           transform="translate(1140.94487716,318.897633701) rotate(180)"
+           d="m -0.0,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#000000" />
+        <path
+           id="path3190"
+           transform="translate(1140.94487716,318.897633701) rotate(180)"
+           d="m -3.5433070866,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#00ffff" />
+        <path
+           id="path3192"
+           transform="translate(1140.94487716,318.897633701) rotate(180)"
+           d="m -7.0866141732,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#ff00ff" />
+        <path
+           id="path3194"
+           transform="translate(1140.94487716,318.897633701) rotate(180)"
+           d="m -10.6299212598,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#ffff00" />
+        <path
+           id="path3196"
+           transform="translate(1140.94487716,318.897633701) rotate(180)"
+           d="m -14.1732283464,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#000000" />
+      </g>
+      <g
+         id="regMarkT">
+        <path
+           id="path3199"
+           transform="translate(526.1811,-88.582677165) rotate(90)"
+           d="m -0.0,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#000000" />
+        <path
+           id="path3201"
+           transform="translate(526.1811,-88.582677165) rotate(90)"
+           d="m -3.5433070866,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#00ffff" />
+        <path
+           id="path3203"
+           transform="translate(526.1811,-88.582677165) rotate(90)"
+           d="m -7.0866141732,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#ff00ff" />
+        <path
+           id="path3205"
+           transform="translate(526.1811,-88.582677165) rotate(90)"
+           d="m -10.6299212598,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#ffff00" />
+        <path
+           id="path3207"
+           transform="translate(526.1811,-88.582677165) rotate(90)"
+           d="m -14.1732283464,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#000000" />
+      </g>
+      <g
+         id="regMarkB">
+        <path
+           id="path3210"
+           transform="translate(526.1811,832.677157165) rotate(-90)"
+           d="m -0.0,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#000000" />
+        <path
+           id="path3212"
+           transform="translate(526.1811,832.677157165) rotate(-90)"
+           d="m -3.5433070866,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#00ffff" />
+        <path
+           id="path3214"
+           transform="translate(526.1811,832.677157165) rotate(-90)"
+           d="m -7.0866141732,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#ff00ff" />
+        <path
+           id="path3216"
+           transform="translate(526.1811,832.677157165) rotate(-90)"
+           d="m -10.6299212598,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#ffff00" />
+        <path
+           id="path3218"
+           transform="translate(526.1811,832.677157165) rotate(-90)"
+           d="m -14.1732283464,17.716535433 -3.5433070866,0 17.716535433,-17.716535433 -17.716535433,-17.716535433 3.5433070866,0 17.716535433,17.716535433 -17.716535433,17.716535433 z"
+           style="stroke:none;fill-opacity:1;fill:#000000" />
+      </g>
+    </g>
+    <g
+       id="PrintingColourBars"
+       inkscape:label="ColourBars">
+      <g
+         transform="translate(561.614170866,-88.582677165) rotate(0)"
+         id="PrintingColourBarsT">
+        <rect
+           id="rect3222"
+           fill="rgb(0,0,0)"
+           stroke-width="0.5"
+           x="0.0"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3224"
+           fill="rgb(25.5,25.5,25.5)"
+           stroke-width="0.5"
+           x="11.811023622"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3226"
+           fill="rgb(51.0,51.0,51.0)"
+           stroke-width="0.5"
+           x="23.622047244"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3228"
+           fill="rgb(76.5,76.5,76.5)"
+           stroke-width="0.5"
+           x="35.433070866"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3230"
+           fill="rgb(102.0,102.0,102.0)"
+           stroke-width="0.5"
+           x="47.244094488"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3232"
+           fill="rgb(127.5,127.5,127.5)"
+           stroke-width="0.5"
+           x="59.05511811"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3234"
+           fill="rgb(153.0,153.0,153.0)"
+           stroke-width="0.5"
+           x="70.866141732"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3236"
+           fill="rgb(178.5,178.5,178.5)"
+           stroke-width="0.5"
+           x="82.677165354"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3238"
+           fill="rgb(204.0,204.0,204.0)"
+           stroke-width="0.5"
+           x="94.488188976"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3240"
+           fill="rgb(229.5,229.5,229.5)"
+           stroke-width="0.5"
+           x="106.299212598"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3242"
+           fill="rgb(255.0,255.0,255.0)"
+           stroke-width="0.5"
+           x="118.11023622"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3244"
+           fill="rgb(0,255,255)"
+           stroke-width="0.5"
+           x="0.0"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3246"
+           fill="rgb(25.5,255,255)"
+           stroke-width="0.5"
+           x="11.811023622"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3248"
+           fill="rgb(51.0,255,255)"
+           stroke-width="0.5"
+           x="23.622047244"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3250"
+           fill="rgb(76.5,255,255)"
+           stroke-width="0.5"
+           x="35.433070866"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3252"
+           fill="rgb(102.0,255,255)"
+           stroke-width="0.5"
+           x="47.244094488"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3254"
+           fill="rgb(127.5,255,255)"
+           stroke-width="0.5"
+           x="59.05511811"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3256"
+           fill="rgb(153.0,255,255)"
+           stroke-width="0.5"
+           x="70.866141732"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3258"
+           fill="rgb(178.5,255,255)"
+           stroke-width="0.5"
+           x="82.677165354"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3260"
+           fill="rgb(204.0,255,255)"
+           stroke-width="0.5"
+           x="94.488188976"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3262"
+           fill="rgb(229.5,255,255)"
+           stroke-width="0.5"
+           x="106.299212598"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3264"
+           fill="rgb(255.0,255,255)"
+           stroke-width="0.5"
+           x="118.11023622"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3266"
+           fill="rgb(255,0,255)"
+           stroke-width="0.5"
+           x="130.921259842"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3268"
+           fill="rgb(255,25.5,255)"
+           stroke-width="0.5"
+           x="142.732283464"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3270"
+           fill="rgb(255,51.0,255)"
+           stroke-width="0.5"
+           x="154.543307086"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3272"
+           fill="rgb(255,76.5,255)"
+           stroke-width="0.5"
+           x="166.354330708"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3274"
+           fill="rgb(255,102.0,255)"
+           stroke-width="0.5"
+           x="178.16535433"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3276"
+           fill="rgb(255,127.5,255)"
+           stroke-width="0.5"
+           x="189.976377952"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3278"
+           fill="rgb(255,153.0,255)"
+           stroke-width="0.5"
+           x="201.787401574"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3280"
+           fill="rgb(255,178.5,255)"
+           stroke-width="0.5"
+           x="213.598425196"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3282"
+           fill="rgb(255,204.0,255)"
+           stroke-width="0.5"
+           x="225.409448818"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3284"
+           fill="rgb(255,229.5,255)"
+           stroke-width="0.5"
+           x="237.22047244"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3286"
+           fill="rgb(255,255.0,255)"
+           stroke-width="0.5"
+           x="249.031496062"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3288"
+           fill="rgb(255,255,0)"
+           stroke-width="0.5"
+           x="130.921259842"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3290"
+           fill="rgb(255,255,25.5)"
+           stroke-width="0.5"
+           x="142.732283464"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3292"
+           fill="rgb(255,255,51.0)"
+           stroke-width="0.5"
+           x="154.543307086"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3294"
+           fill="rgb(255,255,76.5)"
+           stroke-width="0.5"
+           x="166.354330708"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3296"
+           fill="rgb(255,255,102.0)"
+           stroke-width="0.5"
+           x="178.16535433"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3298"
+           fill="rgb(255,255,127.5)"
+           stroke-width="0.5"
+           x="189.976377952"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3300"
+           fill="rgb(255,255,153.0)"
+           stroke-width="0.5"
+           x="201.787401574"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3302"
+           fill="rgb(255,255,178.5)"
+           stroke-width="0.5"
+           x="213.598425196"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3304"
+           fill="rgb(255,255,204.0)"
+           stroke-width="0.5"
+           x="225.409448818"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3306"
+           fill="rgb(255,255,229.5)"
+           stroke-width="0.5"
+           x="237.22047244"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3308"
+           fill="rgb(255,255,255.0)"
+           stroke-width="0.5"
+           x="249.031496062"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+      </g>
+      <g
+         transform="translate(561.614170866,832.677157165) rotate(0)"
+         id="PrintingColourBarsB">
+        <rect
+           id="rect3311"
+           fill="rgb(0,0,0)"
+           stroke-width="0.5"
+           x="0.0"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3313"
+           fill="rgb(25.5,25.5,25.5)"
+           stroke-width="0.5"
+           x="11.811023622"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3315"
+           fill="rgb(51.0,51.0,51.0)"
+           stroke-width="0.5"
+           x="23.622047244"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3317"
+           fill="rgb(76.5,76.5,76.5)"
+           stroke-width="0.5"
+           x="35.433070866"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3319"
+           fill="rgb(102.0,102.0,102.0)"
+           stroke-width="0.5"
+           x="47.244094488"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3321"
+           fill="rgb(127.5,127.5,127.5)"
+           stroke-width="0.5"
+           x="59.05511811"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3323"
+           fill="rgb(153.0,153.0,153.0)"
+           stroke-width="0.5"
+           x="70.866141732"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3325"
+           fill="rgb(178.5,178.5,178.5)"
+           stroke-width="0.5"
+           x="82.677165354"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3327"
+           fill="rgb(204.0,204.0,204.0)"
+           stroke-width="0.5"
+           x="94.488188976"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3329"
+           fill="rgb(229.5,229.5,229.5)"
+           stroke-width="0.5"
+           x="106.299212598"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3331"
+           fill="rgb(255.0,255.0,255.0)"
+           stroke-width="0.5"
+           x="118.11023622"
+           y="-12.811023622"
+           stroke="#000"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3333"
+           fill="rgb(0,255,255)"
+           stroke-width="0.5"
+           x="0.0"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3335"
+           fill="rgb(25.5,255,255)"
+           stroke-width="0.5"
+           x="11.811023622"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3337"
+           fill="rgb(51.0,255,255)"
+           stroke-width="0.5"
+           x="23.622047244"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3339"
+           fill="rgb(76.5,255,255)"
+           stroke-width="0.5"
+           x="35.433070866"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3341"
+           fill="rgb(102.0,255,255)"
+           stroke-width="0.5"
+           x="47.244094488"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3343"
+           fill="rgb(127.5,255,255)"
+           stroke-width="0.5"
+           x="59.05511811"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3345"
+           fill="rgb(153.0,255,255)"
+           stroke-width="0.5"
+           x="70.866141732"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3347"
+           fill="rgb(178.5,255,255)"
+           stroke-width="0.5"
+           x="82.677165354"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3349"
+           fill="rgb(204.0,255,255)"
+           stroke-width="0.5"
+           x="94.488188976"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3351"
+           fill="rgb(229.5,255,255)"
+           stroke-width="0.5"
+           x="106.299212598"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3353"
+           fill="rgb(255.0,255,255)"
+           stroke-width="0.5"
+           x="118.11023622"
+           y="0"
+           stroke="#0FF"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3355"
+           fill="rgb(255,0,255)"
+           stroke-width="0.5"
+           x="130.921259842"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3357"
+           fill="rgb(255,25.5,255)"
+           stroke-width="0.5"
+           x="142.732283464"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3359"
+           fill="rgb(255,51.0,255)"
+           stroke-width="0.5"
+           x="154.543307086"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3361"
+           fill="rgb(255,76.5,255)"
+           stroke-width="0.5"
+           x="166.354330708"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3363"
+           fill="rgb(255,102.0,255)"
+           stroke-width="0.5"
+           x="178.16535433"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3365"
+           fill="rgb(255,127.5,255)"
+           stroke-width="0.5"
+           x="189.976377952"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3367"
+           fill="rgb(255,153.0,255)"
+           stroke-width="0.5"
+           x="201.787401574"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3369"
+           fill="rgb(255,178.5,255)"
+           stroke-width="0.5"
+           x="213.598425196"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3371"
+           fill="rgb(255,204.0,255)"
+           stroke-width="0.5"
+           x="225.409448818"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3373"
+           fill="rgb(255,229.5,255)"
+           stroke-width="0.5"
+           x="237.22047244"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3375"
+           fill="rgb(255,255.0,255)"
+           stroke-width="0.5"
+           x="249.031496062"
+           y="-12.811023622"
+           stroke="#F0F"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3377"
+           fill="rgb(255,255,0)"
+           stroke-width="0.5"
+           x="130.921259842"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3379"
+           fill="rgb(255,255,25.5)"
+           stroke-width="0.5"
+           x="142.732283464"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3381"
+           fill="rgb(255,255,51.0)"
+           stroke-width="0.5"
+           x="154.543307086"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3383"
+           fill="rgb(255,255,76.5)"
+           stroke-width="0.5"
+           x="166.354330708"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3385"
+           fill="rgb(255,255,102.0)"
+           stroke-width="0.5"
+           x="178.16535433"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3387"
+           fill="rgb(255,255,127.5)"
+           stroke-width="0.5"
+           x="189.976377952"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3389"
+           fill="rgb(255,255,153.0)"
+           stroke-width="0.5"
+           x="201.787401574"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3391"
+           fill="rgb(255,255,178.5)"
+           stroke-width="0.5"
+           x="213.598425196"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3393"
+           fill="rgb(255,255,204.0)"
+           stroke-width="0.5"
+           x="225.409448818"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3395"
+           fill="rgb(255,255,229.5)"
+           stroke-width="0.5"
+           x="237.22047244"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+        <rect
+           id="rect3397"
+           fill="rgb(255,255,255.0)"
+           stroke-width="0.5"
+           x="249.031496062"
+           y="0"
+           stroke="#FF0"
+           width="11.811023622"
+           height="11.811023622" />
+      </g>
+    </g>
+  </g>
+</svg>
