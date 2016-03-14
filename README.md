@@ -1,0 +1,2 @@
+# guia-do-ingressante-APOGEEU
+Guia entregue aos ingressantes da pós graduação da Faculdade de Engenharia Elétrica (FEEC) da Unicamp, escrito pelo APOGEEU - www.apogeeu.fee.unicamp.br/manual-do-ingressante
